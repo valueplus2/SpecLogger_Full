@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="AutoResponseRule">
+    <table type="AutoResponseRule">
+        <tableHeader type="AutoResponse Rule">自動レスポンスルール</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>変更あり</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>ルール名</value>
+        </column>
+        <column>
+            <label>active</label>
+            <value>有効</value>
+        </column>
+    </table> 
+	<table type="RuleEntry">
+        <tableHeader type="Rule Entry">ルールエントリ</tableHeader>
+        <column>
+            <label>booleanFilter</label>
+            <value>検索条件ロジック</value>
+        </column>
+        <column>
+            <label>criteriaItems</label>
+            <value>検索条件リスト</value>
+        </column>
+        <column>
+            <label>formula</label>
+            <value>数式</value>
+        </column>
+        <column>
+            <label>replyToEmail</label>
+            <value>返信先メールアドレス</value>
+        </column>
+        <column>
+            <label>senderEmail</label>
+            <value>差出人メールアドレス</value>
+        </column>
+        
+        <column>
+            <label>senderName</label>
+            <value>差出人名前</value>
+        </column>
+         <column>
+            <label>template</label>
+            <value>メールテンプレート</value>
+        </column>
+    </table>
+</MetaData>

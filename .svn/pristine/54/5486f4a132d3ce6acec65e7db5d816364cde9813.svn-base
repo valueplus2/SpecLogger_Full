@@ -1,0 +1,14 @@
+#Config File
+#Fri Sep 29 08:56:50 CST 2017
+sfdc.username=tr2017summer@value-p.com.st4
+sfdc.proxyUsername=
+Language=JP
+sfdc.proxyHost=
+LicensePath=D\:\\keypair\\anyid_20171231.txt
+sfdc.password=cvbgZEYK0hY4SeFnM53dSA\=\=
+sfdc.proxyPassword=3tU/P7N1q0QI5RLq3Y0M/g\=\=
+sfdc.endpoint=https\://test.salesforce.com/services/Soap/u/41.0
+setting.modifiedFlag=true
+sfdc.proxyPort=
+process.outputSuccess=D\:\\Users\\dzhang\\specLogger
+setting.Subfolder=true

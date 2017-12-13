@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <MateDate type="CustomLabels">
+    <table type="CustomLabel">
+    
+        <tableHeader type="Custom Label">カスタムラベル</tableHeader>
+        <column>
+            <label>fullName</label>
+            <value>名前</value>
+        </column>
+        <column>
+            <label>shortDescription</label>
+            <value>簡単な説明</value>
+        </column>
+        <column>
+            <label>language</label>
+            <value>言語</value>
+        </column>
+        <column>
+            <label>protected</label>
+            <value>保護コンポーネント</value>
+        </column>
+        <column>
+            <label>categories</label>
+            <value>カテゴリ</value>
+        </column>
+        <column>
+            <label>value</label>
+            <value>値</value>
+        </column>
+       </table>
+    </MateDate>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="AssignmentRules">
+    <table type="AssignmentRule">
+        <tableHeader type="Assignment Rule">Assignment Rule</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>是否改变</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>名称</value>
+        </column>
+        <column>
+            <label>active</label>
+            <value>是否激活</value>
+        </column>
+    </table> 
+	<table type="RuleEntry">
+        <tableHeader type="Rule Entry">Rule Entry</tableHeader>
+        <column>
+            <label>booleanFilter</label>
+            <value>布尔过滤器</value>
+        </column>
+        <column>
+            <label>criteriaItems</label>
+            <value>标准产品</value>
+        </column>
+        <column>
+            <label>formula</label>
+            <value>公式</value>
+        </column>
+        
+        <column>
+            <label>assignedToType</label>
+            <value>分配类型</value>
+        </column>
+        <column>
+            <label>assignedTo</label>
+            <value>分配</value>
+        </column>
+        <column>
+            <label>template</label>
+            <value>模板</value>
+        </column>
+         <column>
+            <label>team</label>
+            <value>团队</value>
+        </column>
+        <column>
+            <label>overrideExistingTeams</label>
+            <value>覆盖现有的团队</value>
+        </column>
+        <column>
+        	<label>notifyCcRecipients</label>
+        	<value>通告是否接受抄送</value>
+        </column>
+    </table> 
+</MetaData>

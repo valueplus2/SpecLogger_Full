@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata type="AnalyticSnapshot">
+  <table type="AnalyticSnapshotAttribute">
+    <tableHeader type="Analytic Snapshot Attribute">Analytic Snapshot Attribute</tableHeader>
+    <column>
+      <label>changed</label>
+      <value>changed</value>
+    </column>
+    <column>
+      <label>name</label>
+      <value>name</value>
+    </column>
+    <column>
+      <label>fullName</label>
+      <value>fullName</value>
+    </column>
+    <column>
+      <label>description</label>
+      <value>description</value>
+    </column>
+    <column>
+      <label>groupColumn</label>
+      <value>groupColumn</value>
+    </column>
+    <column>
+      <label>runningUser</label>
+      <value>runningUser</value>
+    </column>
+    <column>
+      <label>sourceReport</label>
+      <value>sourceReport</value>
+    </column>
+    <column>
+      <label>targetObject</label>
+      <value>targetObject</value>
+    </column>
+  </table>
+  <table type="AnalyticSnapshotMapping">
+      <tableHeader type="Analytic Snapshot Mapping">Analytic Snapshot Mapping</tableHeader>
+      <!-- <column>
+        <label>fullName</label>
+        <value>Full Name</value>
+      </column> -->
+      <column>
+        <label>aggregateType</label>
+        <value>Aggregate Type</value>
+      </column>
+      <column>
+        <label>sourceFied</label>
+        <value>Source Field</value>
+      </column>
+      <column>
+        <label>sourceType</label>
+        <value>Source Type</value>
+      </column>
+      <column>
+        <label>targetField</label>
+        <value>Target Field</value>
+      </column>
+  </table>
+</metadata>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="Homepage">
+    <table type="CustomPageWebLink ">
+        <tableHeader type="Custom Page WebLink">カスタムリンク</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>変更あり</value>
+        </column>
+        <column>
+            <label>fullname</label>
+            <value>名前</value>
+        </column>
+        <column>
+            <label>masterLabel</label>
+            <value>表示ラベル</value>
+        </column>
+        <column>
+            <label>linkType</label>
+            <value>内容のソース</value>
+        </column>
+        <column>
+            <label>Source</label>
+            <value>内容</value>
+        </column>
+        <column>
+            <label>availability</label>
+            <value>使用形態</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>説明</value>
+        </column>
+        <column>
+            <label>displayType</label>
+            <value>表示方法</value>
+        </column>
+        <column>
+            <label>encodingKey</label>
+            <value>リンクのエンコード</value>
+        </column>
+        <column>
+            <label>hasMenubar</label>
+            <value>メニューバーの表示</value>
+        </column>
+        <column>
+            <label>hasScrollbars</label>
+            <value>スクロールバーの表示</value>
+        </column>
+        <column>
+            <label>hasToolbar</label>
+            <value>ツールバーの表示</value>
+        </column> 
+        <column>
+            <label>isResizable</label>
+            <value>サイズ変更可能</value>
+        </column>
+        <column>
+            <label>requireRowSelection</label>
+            <value>行選択必須</value>
+        </column>
+        <column>
+            <label>showsLocation</label>
+            <value>アドレスバーの表示</value>
+        </column>
+        <column>
+            <label>showsStatus</label>
+            <value>ステータスバーの表示</value>
+        </column>
+        <column>
+            <label>position</label>
+            <value>ウィンドウの位置</value>
+        </column>
+        <column>
+            <label>height</label>
+            <value>高さ (ピクセル単位)</value>
+        </column>
+        <column>
+            <label>width</label>
+            <value>幅(ピクセル) </value>
+        </column>  
+        <column>
+            <label>openType</label>
+            <value>動作</value>
+        </column>
+        <column>
+            <label>protected</label>
+            <value>保護コンポーネント</value>
+        </column>
+     </table> 
+    <table type="HomepageComponent">
+        <tableHeader type="Homepage Component">コンポーネント</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>変更あり</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>名前</value>
+        </column>         
+        <column>
+            <label>pageComponentType</label>
+            <value>種別</value>
+        </column>
+        <column>
+            <label>Source</label>
+            <value>内容</value>
+        </column>
+        <column>
+            <label>height</label>
+            <value>高さ (ピクセル単位)</value>
+        </column>
+        <column>
+            <label>width</label>
+            <value>幅(広/狭)</value>
+        </column>          
+        <column>
+            <label>showScrollbars</label>
+            <value>スクロールバーを表示</value>
+        </column>
+        <column>
+            <label>showLabel</label>
+            <value>ラベルを表示</value>
+        </column>
+    </table> 
+    <table type="HomepageLayout">
+        <tableHeader type="Homepage Layout">ページレイアウト</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>変更あり</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>名前</value>
+        </column>         
+        <column>
+            <label>narrowComponents</label>
+            <value>狭い (左) 列</value>
+        </column>
+        <column>
+            <label>wideComponents</label>
+            <value>広い (右) 列</value>
+        </column>
+    </table>
+</MetaData>

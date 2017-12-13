@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="Layout">
+    <table type="Layout">
+        <tableHeader type="Layout">Layout</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>customButtons</label>
+            <value>Custom Button</value>
+        </column>
+        <column>
+            <label>excludeButtons</label>
+            <value>Exclude Buttons</value>
+        </column>
+        <column>
+            <label>headers</label>
+            <value>Layout Header</value>
+        </column>
+        <column>
+            <label>multilineLayoutFields</label>
+            <value>Multiline Layout Fields</value>
+        </column>
+        <column>
+            <label>relatedObjects</label>
+            <value>Related Objects</value>
+        </column>
+        <column>
+            <label>showHighlightsPanel</label>
+            <value>Show Highlights Panel</value>
+        </column>
+        <column>
+            <label>showInteractionLogPanel</label>
+            <value>showInteractionLogPanel</value>
+        </column>
+        <column>
+            <label>showKnowledgeComponent</label>
+            <value>showKnowledgeComponent</value>
+        </column>
+     	<column>
+            <label>showRunAssignmentRulesCheckbox</label>
+            <value>showRunAssignmentRulesCheckbox</value>
+        </column>
+        <column>
+            <label>runAssignmentRulesDefault</label>
+            <value>runAssignmentRulesDefault</value>
+        </column>
+        <column>
+            <label>showSolutionSection</label>
+            <value>showSolutionSection</value>
+        </column>
+     	<column>
+            <label>showSubmitAndAttachButton</label>
+            <value>showSubmitAndAttachButton</value>
+        </column>
+        <column>
+            <label>showEmailCheckbox</label>
+            <value>showEmailCheckbox</value>
+        </column>
+        <column>
+            <label>emailDefault</label>
+            <value>emailDefault</value>
+        </column>
+    </table>
+    <table type="layoutSections">
+    	<tableHeader type="LayoutSections">Layout Sections</tableHeader>
+    	<column>
+            <label>customLabel</label>
+            <value>Custom Label</value>
+        </column>
+        <column>
+            <label>detailHeading</label>
+            <value>Detail Heading</value>
+        </column>
+        <column>
+            <label>editHeading</label>
+            <value>Edit Heading</value>
+        </column>
+        <column>
+            <label>label</label>
+            <value>Label</value>
+        </column>
+        <column>
+            <label>style</label>
+            <value>Style</value>
+        </column>
+    </table>
+    <table type="LayoutItem">
+    	<tableHeader type="LayoutItem">Layout Item</tableHeader>
+    	<column>
+            <label>field</label>
+            <value>Field</value>
+        </column>
+        <column>
+            <label>behavior</label>
+            <value>Behavior</value>
+        </column>
+    </table>
+    <table type="itemAdditionalInformation">
+    	<tableHeader type="ItemAdditionalInformation">Item Additional Information</tableHeader>
+    	<column>
+            <label>name</label>
+            <value>Name</value>
+        </column>
+        <column>
+            <label>height</label>
+            <value>Height</value>
+        </column>
+        <column>
+            <label>width</label>
+            <value>Width</value>
+        </column>
+        <column>
+            <label>showLabel</label>
+            <value>Show Label</value>
+        </column>
+        <column>
+            <label>showScrollbars</label>
+            <value>Show Scrollbars</value>
+        </column>
+        <column>
+            <label>reportChartComponent</label>
+            <value>Report Chart Component</value>
+        </column>
+        <column>
+            <label>analyticsCloudComponent</label>
+            <value>analytics Cloud Component</value>
+        </column>
+    </table>
+    <table type="ReportChartComponentDetail">
+    	<tableHeader type="ReportChartComponentDetail">ReportChart Component Detail</tableHeader>
+    	<column>
+            <label>reportName</label>
+            <value>Report Name</value>
+        </column>
+        <column>
+            <label>cacheData</label>
+            <value>CacheData</value>
+        </column>
+    	<column>
+            <label>contextFilterableField</label>
+            <value>Context Filterable Field</value>
+        </column>
+        <column>
+            <label>error</label>
+            <value>Error</value>
+        </column> 
+        <column>
+            <label>hideOnError</label>
+            <value>Hide OnError</value>
+        </column>
+        <column>
+            <label>includeContext</label>
+            <value>Include Context</value>
+        </column>
+        <column>
+            <label>showTitle</label>
+            <value>Show Title</value>
+        </column>
+        <column>
+            <label>size</label>
+            <value>Size</value>
+        </column>  
+    </table>
+    <table type="analyticsCloudComponentDetail">
+    	<tableHeader type="analyticsCloudComponentDetail">analytics Cloud Component Detail</tableHeader>
+    	<column>
+    		<label>assetType</label>
+    		<value>assetType</value>
+    	</column>
+    	<column>
+    		<label>devName</label>
+    		<value>devName</value>
+    	</column>
+    	<column>
+    		<label>error</label>
+    		<value>error</value>
+    	</column>
+    	<column>
+    		<label>filter</label>
+    		<value>filter</value>
+    	</column>
+    	<column>
+    		<label>height</label>
+    		<value>height</value>
+    	</column>
+    	<column>
+    		<label>hideOnError</label>
+    		<value>hideOnError</value>
+    	</column>
+    	<column>
+    		<label>showTitle</label>
+    		<value>showTitle</value>
+    	</column>
+    	<column>
+    		<label>width</label>
+    		<value>width</value>
+    	</column>
+    </table>
+    <table type="RelatedListItem">
+    	<tableHeader type="RelatedListItem">Related ListItem</tableHeader>
+    	<column>
+            <label>relatedList</label>
+            <value>Related List</value>
+        </column>
+        <column>
+            <label>customButtons</label>
+            <value>Custom Buttons</value>
+        </column>
+        <column>
+            <label>excludeButtons</label>
+            <value>Exclude Buttons</value>
+        </column>
+        <column>
+            <label>fields</label>
+            <value>Fields</value>
+        </column>
+    </table> 
+</MetaData>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="CustomSetting">
+    <table type="CustomSettingAttribute">
+        <tableHeader type="Custom Setting Attribute">Custom Setting Attribute</tableHeader>
+        <column>
+            <label>label</label>
+            <value>标签</value>
+        </column>
+       <column>
+            <label>visibility</label>
+            <value>可见性ty</value>
+        </column>
+        <column>
+            <label>customSettingsType</label>
+            <value>自定义设置类型</value>
+        </column>
+         <column>
+            <label>description</label>
+            <value>说明</value>
+        </column>
+        <column>
+            <label>Number of Records</label>
+            <value>记录总数量</value>
+        </column>    
+    </table>
+    <table type="CustomField">
+        <tableHeader type="Custom Field">Custom Field</tableHeader>
+        <column>
+            <label>label</label>
+            <value>标签</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>名称</value>
+        </column>
+        <column>
+            <label>type</label>
+            <value>类型</value>
+        </column>
+        <column>
+            <label>caseSensitive</label>
+            <value>区分大小写</value>
+            <!-- <value>大文字と小文字を区別</value> -->
+        </column>
+        <column>
+            <label>defaultValue</label>
+            <value>默认值</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>说明</value>
+        </column>
+        <!--  <column>
+            <label>displayLocationInDecimal</label>
+            <value>displayLocationInDecimal</value>
+        </column>-->
+        <column>
+        	<label>inlineHelpText</label>
+        	<value>内部帮助文本</value>
+        </column>
+        <column>
+            <label>encrypted</label>
+            <value>加密</value>
+        </column>
+        <column>
+            <label>formula</label>
+            <value>数式</value>
+        </column>
+        <column>
+            <label>formulaTreatBlankAs</label>
+            <value>数式将空白作为</value>
+        </column>
+        <column>
+            <label>displayFormat</label>
+            <value>显示格式</value>
+        </column>
+        <!-- <column>
+            <label>indexed</label>
+            <value>indexed</value>
+        </column> -->
+        <column>
+            <label>externalId</label>
+            <value>外部ID</value>
+        </column>
+        <column>
+            <label>length</label>
+            <value>长度</value>
+        </column>
+        <column>
+            <label>scale</label>
+            <value>范围</value>
+        </column>
+        <column>
+            <label>precision</label>
+            <value>精确度</value>
+        </column>
+        <column>
+            <label>required</label>
+            <value>必须性</value>
+        </column>
+        <column>
+            <label>unique</label>
+            <value>唯一性</value>
+        </column>
+        <column>
+            <label>visibleLines</label>
+            <value>可见行数</value>
+        </column>
+        <column>
+        	<label>startingNumber</label>
+        	<value>开始编号</value>
+        </column>
+        <!-- ><column>
+        	<label>trueValueIndexed</label>
+        	<value>trueValueIndexed</value>
+        </column> -->
+    </table>
+    <table type="Manage">
+    	<tableHeader type="Manage">管理</tableHeader>
+    	<column>
+    		<label>Name</label>
+    		<value>名称</value>
+    	</column>
+    </table> 
+</MetaData>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="Profile">
+	<table type="Profile">
+		<tableHeader type="Profile">Profile</tableHeader>
+		<column>
+			<label>Change</label>
+			<value>Change</value>
+		</column>
+		<column>
+			<label>fullName</label>
+			<value>FullName</value>
+		</column>
+		<column>
+			<label>userLicense</label>
+			<value>User License</value>
+		</column>
+		<column>
+			<label>custom</label>
+			<value>Custom Profile</value>
+		</column>
+		<column>
+			<label>description</label>
+			<value>Description</value>
+		</column>
+	</table>
+	<table type="ProfileLayoutAssignments">
+		<tableHeader type="ProfileLayoutAssignments">Profile Layout Assignments</tableHeader>
+		<column>
+			<label>recordType</label>
+			<value>recordType</value>
+		</column>
+		<column>
+			<label>layout</label>
+			<value>layout</value>
+		</column>
+	</table>
+	<table type="ProfileFieldLevelSecurity">
+		<tableHeader type="ProfileFieldLevelSecurity">Field Permissions</tableHeader>
+		<column>
+			<label>fieldname</label>
+			<value>field</value>
+		</column>
+<!-- 		<column> -->
+<!-- 			<label>hidden</label> -->
+<!-- 			<value>hidden</value> -->
+<!-- 		</column> -->
+		<column>
+			<label>readable</label>
+			<value>readable</value>
+		</column>
+		<column>
+			<label>editable</label>
+			<value>editable</value>
+		</column>
+	</table>
+	<table type="ProfileApplicationVisibility">
+		<tableHeader type="ProfileApplicationVisibility">Application Visibilities</tableHeader>
+		<column>
+			<label>application</label>
+			<value>Application</value>
+		</column>
+		<column>
+			<label>visible</label>
+			<value>Visible</value>
+		</column>
+		<column>
+			<label>default</label>
+			<value>Default</value>
+		</column>
+	</table>
+	<table type="ProfileTabVisibility">
+		<tableHeader type="ProfileTabVisibility">Tab Visibility</tableHeader>
+		<column>
+			<label>tab</label>
+			<value>Tab</value>
+		</column>
+		<column>
+			<label>visibility</label>
+			<value>Visibility</value>
+		</column>
+	</table>
+	<table type="ProfileRecordTypeVisibility">
+		<tableHeader type="ProfileRecordTypeVisibility">RecordType Visibility</tableHeader>
+		<column>
+			<label>recordType</label>
+			<value>RecordType</value>
+		</column>
+		<column>
+			<label>visible</label>
+			<value>Visible</value>
+		</column>
+		<column>
+			<label>default</label>
+			<value>Default</value>
+		</column>
+		<column>
+			<label>personAccountDefault</label>
+			<value>Person Account Default</value>
+		</column>
+	</table>
+	<table type="ProfileUserPermission">
+		<tableHeader type="ProfileUserPermission">User Permissions</tableHeader>
+		<column>
+			<label>name</label>
+			<value>Name</value>
+		</column>
+		<column>
+			<label>enabled</label>
+			<value>Enabled</value>
+		</column>
+	</table>
+	<table type="ProfileObjectPermissions">
+		<tableHeader type="ProfileObjectPermissions">Object Permissions</tableHeader>
+		<column>
+			<label>object</label>
+			<value>Object</value>
+		</column>
+		<column>
+			<label>allowRead</label>
+			<value>Read</value>
+		</column>
+		<column>
+			<label>allowCreate</label>
+			<value>Create</value>
+		</column>
+		<column>
+			<label>allowEdit</label>
+			<value>Edit</value>
+		</column>
+		<column>
+			<label>allowDelete</label>
+			<value>Delete</value>
+		</column>
+		<column>
+			<label>viewAllRecords</label>
+			<value>View All</value>
+		</column>
+		<column>
+			<label>modifyAllRecords</label>
+			<value>Modify All</value>
+		</column>
+	</table>
+	<table type="ProfileCustomPermissions">
+		<tableHeader type="ProfileCustomPermissions">Custom Permissions</tableHeader>
+		<column>
+			<label>name</label>
+			<value>Name</value>
+		</column>
+		<column>
+			<label>enabled</label>
+			<value>Enabled</value>
+		</column>
+	</table>
+	<table type="ProfileLoginHours">
+		<tableHeader type="ProfileLoginHours">Login Hours</tableHeader>
+		<column>
+			<label>weekdayStart</label>
+			<value>Weekday</value>
+		</column>
+		<column>
+			<label>weekdayEnd</label>
+			<value>Period</value>
+		</column>
+	</table>
+	<table type="ProfileLoginIpRange">
+		<tableHeader type="ProfileLoginIpRange">Login IP Ranges</tableHeader>
+		<column>
+			<label>startAddress</label>
+			<value>IP Start Address</value>
+		</column>
+		<column>
+			<label>endAddress</label>
+			<value>IP End Address</value>
+		</column>
+		<column>
+			<label>description</label>
+			<value>Description</value>
+		</column>
+	</table>
+	<table type="ProfileApexClassAccess">
+		<tableHeader type="ProfileApexClassAccess">Enabled Apex Class Access</tableHeader>
+		<column>
+			<label>apexClass</label>
+			<value>Apex Class Name</value>
+		</column>
+	</table>
+	<table type="ProfileApexPageAccess">
+		<tableHeader type="ProfileApexPageAccess">Enabled Visualforce Page Access
+		</tableHeader>
+		<column>
+			<label>apexPage</label>
+			<value>Visualforce Page Name</value>
+		</column>
+	</table>
+	<table type="ProfileExternalDataSourceAccess">
+		<tableHeader type="ProfileExternalDataSourceAccess">Enabled External Data Source Access
+		</tableHeader>
+		<column>
+			<label>externalDataSource</label>
+			<value>External Data Source</value>
+		</column>
+	</table>
+</MetaData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/poi/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/poi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/poi/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-examples-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-excelant-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-ooxml-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-ooxml-schemas-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-scratchpad-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="lib/poi/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/antlr-runtime-3.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/java-json.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/ST4-4.0.8.jar"/>
+	<classpathentry kind="lib" path="lib/force-wsc-41.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/metadata-41.0.jar"/>
+	<classpathentry kind="lib" path="lib/partner-41.0.jar"/>
+	<classpathentry kind="lib" path="lib/tooling-41.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

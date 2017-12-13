@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Metadata type="CustomObjectTranslation">
+   <table type="CustomObjectTranslation">
+     <tableHeader type="Custom Object Translation">Custom Object Translation</tableHeader>
+     <column>
+       <label>changed</label>
+       <value>changed</value>
+     </column>
+     <column>
+       <label>fullName</label>
+       <value>fullName</value>
+     </column>
+     <column>
+       <label>gender</label>
+       <value>gender</value>
+     </column>
+      <column>
+       <label>nameFieldLabel</label>
+       <value>nameFieldLabel</value>
+     </column>
+     <column>
+       <label>startsWith</label>
+       <value>startsWith</value>
+     </column>
+     <column>
+       <label>caseValues</label>
+       <value>caseValues</value>
+     </column>
+   </table>
+   
+   <table type="CustomFieldTranslation">
+     <tableHeader type="Custom Field Translation">Custom Field Translation</tableHeader>
+     <column>
+       <label>name</label>
+       <value>name</value>
+     </column>
+     <column>
+       <label>caseValues</label>
+       <value>caseValues</value>
+     </column>
+     <column>
+       <label>gender</label>
+       <value>gender</value>
+     </column>
+     <column>
+       <label>help</label>
+       <value>help</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>label</value>
+     </column>
+     <column>
+       <label>errorMessage</label>
+       <value>errorMessage</value>
+     </column>
+     <column>
+       <label>informationalMessage</label>
+       <value>informationalMessage</value>
+     </column>
+    
+     <column>
+       <label>picklistValueReferenceName</label>
+       <value>picklistValueReferenceName</value>
+     </column>
+     <column>
+       <label>relationshipLabel</label>
+       <value>relationshipLabel</value>
+     </column>
+     <column>
+       <label>startsWith</label>
+       <value>startsWith</value>
+     </column>
+   </table>
+   <table type="ObjectNameCaseValues">
+     <tableHeader type = "Object Name Case Value">Object Name Case Value</tableHeader>
+     <column>
+       <label>referenceName</label>
+       <value>referenceName</value>
+     </column>
+     <column>
+       <label>article</label>
+       <value>article</value>
+     </column>
+     <column>
+       <label>caseType</label>
+       <value>caseType</value>
+     </column>
+     <column>
+       <label>plural</label>
+       <value>plural</value>
+     </column>
+     <column>
+       <label>possessive</label>
+       <value>possessive</value>
+     </column>
+     <column>
+       <label>value</label>
+       <value>value</value>
+     </column>
+   </table>
+   <table type="LayutTranslation">
+     <tableHeader type="Layout Translation">Layout Translation</tableHeader>
+     
+     <column>
+       <label>layout</label>
+       <value>layout</value>
+     </column>
+     <column>
+       <label>layoutType</label>
+       <value>layoutType</value>
+     </column>
+     <column>
+       <label>sections</label>
+       <value>sections</value>
+     </column>
+   </table>
+   <table type="PicklistValueTranslation">
+      <tableHeader type="Picklist Value Translation">Picklist Value Translation</tableHeader>
+      <column>
+        <label>referenceName</label>
+        <value>referenceName</value>
+      </column>
+      <column>
+        <label>masterLabel</label>
+        <value>masterLabel</value>
+      </column>
+      <column>
+        <label>translation</label>
+        <value>translation</value>
+      </column>
+   </table> 
+   <table type="QuickActionTranslation">
+     <tableHeader type="Quick Action Translation">Quick Action Translation</tableHeader>
+    
+     <column>
+       <label>name</label>
+       <value>name</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>label</value>
+     </column>
+   </table>
+   <table type="RecordTypeTranslation">
+     <tableHeader type="Record Type Translation">Record Type Translation</tableHeader>
+     
+     <column>
+       <label>name</label>
+       <value>name</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>label</value>
+     </column>
+   </table>
+   <table type="SharingReasonTranslation">
+     <tableHeader type="Sharing Reason Translation">Sharing Reason Translation</tableHeader>
+     
+     <column>
+       <label>name</label>
+       <value>name</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>label</value>
+     </column>
+   </table>
+   <table type="ValidationRuleTranslation">
+     <tableHeader type="Validation Rule Translation">Validation Rule Translation</tableHeader>
+     
+     <column>
+       <label>name</label>
+       <value>name</value>
+     </column>
+     <column>
+       <label>errorMessage</label>
+       <value>errorMessage</value>
+     </column>
+   </table>
+   <table type="WebLinkTraslation">
+     <tableHeader type="Web Link Translation">Web Link Translation</tableHeader>
+     
+     <column>
+       <label>name</label>
+       <value>name</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>label</value>
+     </column>   
+   </table>
+   <table type="WorkflowTaskTranslation">
+     <tableHeader type="Workflow Task Translation">Workflow Task Translation</tableHeader>
+    
+     <column>
+       <label>name</label>
+       <value>name</value>
+     </column>
+     <column>
+       <label>description</label>
+       <value>description</value>
+     </column>
+     <column>
+       <label>subject</label>
+       <value>subject</value>
+     </column>
+   </table>
+</Metadata>

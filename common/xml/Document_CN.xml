@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="Document">
+	<table type="DocumentFolder">
+		<tableHeader type="DocumentFolder">DocumentFolder</tableHeader>
+		<column>
+			<label>Changed</label>
+			<value>Changed</value>
+		</column>
+		<column>
+			<label>fullName</label>
+			<value>fullName</value>
+		</column>
+		<column>
+			<label>Name</label>
+			<value>Name</value>
+		</column>
+		<column>
+			<label>accessType</label>
+			<value>accessType</value>
+		</column>
+		<column>
+			<label>publicFolderAccess</label>
+			<value>publicFolderAccess</value>
+		</column>
+		<column>
+			<label>sharedTo</label>
+			<value>sharedTo</value>
+		</column>
+	</table>
+	<table type="document">
+		<tableHeader type="document">document</tableHeader>
+		<column>
+			<label>Changed</label>
+			<value>Changed</value>
+		</column>
+		<column>
+			<label>fullName</label>
+			<value>fullName</value>
+		</column>
+		<column>
+			<label>Name</label>
+			<value>Name</value>
+		</column>
+		<column>
+			<label>description</label>
+			<value>description</value>
+		</column>
+		<column>
+			<label>keywords</label>
+			<value>keywords</value>
+		</column>
+		<column>
+			<label>internalUseOnly</label>
+			<value>internalUseOnly</value>
+		</column>
+		<column>
+			<label>public</label>
+			<value>public</value>
+		</column>
+	</table>
+</MetaData>

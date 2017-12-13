@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="ApexClass">
+    <table type="ApexClass">
+        <tableHeader type="ApexClass">Apex クラス</tableHeader>
+	    <column>
+	      <label>changed</label>
+	      <value>変更あり</value>
+	    </column>        
+        <column>
+            <label>fullName</label>
+            <value>名前</value>
+        </column>
+        <column>
+            <label>NamespacePrefix</label>
+            <value>名前空間プレフィックス</value>
+        </column>
+        <column>
+            <label>LengthWithoutComments</label>
+            <value>サイズ（コメント除き）</value>
+        </column>
+        <column>
+            <label>ApiVersion</label>
+            <value>APIバージョン</value>
+        </column>
+        <column>
+            <label>Status</label>
+            <value>状況</value>
+        </column>
+        <column>
+            <label>LastModifiedBy</label>
+            <value>最終更新者</value>
+        </column>
+        <column>
+            <label>LastModifiedDate</label>
+            <value>最終更新日</value>
+        </column>
+    </table>
+</MetaData> 

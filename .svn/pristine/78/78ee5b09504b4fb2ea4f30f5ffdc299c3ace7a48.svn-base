@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="Profile">
+	<table type="Profile">
+		<tableHeader type="Profile">プロファイル</tableHeader>
+		<column>
+			<label>Changed</label>
+			<value>変更あり</value>
+		</column>
+		<column>
+			<label>fullName</label>
+			<value>プロファイル名</value>
+		</column>
+		<column>
+			<label>userLicense</label>
+			<value>ユーザライセンス</value>
+		</column>
+		<column>
+			<label>custom</label>
+			<value>カスタムプロファイル</value>
+		</column>
+		<column>
+			<label>description</label>
+			<value>説明</value>
+		</column>
+	</table>
+	<table type="ProfileLayoutAssignments">
+		<tableHeader type="ProfileLayoutAssignments">ページレイアウト</tableHeader>
+		<column>
+			<label>object</label>
+			<value>オブジェクト</value>
+		</column>
+		<column>
+			<label>recordType</label>
+			<value>レコードタイプ</value>
+		</column>
+		<column>
+			<label>layout</label>
+			<value>レイアウト</value>
+		</column>
+	</table>
+	<table type="ProfileFieldLevelSecurity">
+		<tableHeader type="ProfileFieldLevelSecurity">項目レベルセキュリティ</tableHeader>
+		<column>
+			<label>fieldname</label>
+			<value>項目名</value>
+		</column>
+<!-- 		<column> -->
+<!-- 			<label>hidden</label> -->
+<!-- 			<value>hidden</value> -->
+<!-- 		</column> -->
+		<column>
+			<label>readable</label>
+			<value>参照可能</value>
+		</column>
+		<column>
+			<label>editable</label>
+			<value>参照のみ</value>
+		</column>
+	</table>
+	<table type="ProfileApplicationVisibility">
+		<tableHeader type="ProfileApplicationVisibility">カスタムアプリケーション設定</tableHeader>
+		<column>
+			<label>application</label>
+			<value>アプリケーション</value>
+		</column>
+		<column>
+			<label>visible</label>
+			<value>参照可能</value>
+		</column>
+		<column>
+			<label>default</label>
+			<value>デフォルト</value>
+		</column>
+	</table>
+	<table type="ProfileTabVisibility">
+		<tableHeader type="ProfileTabVisibility">タブの設定</tableHeader>
+		<column>
+			<label>tab</label>
+			<value>タブ</value>
+		</column>
+		<column>
+			<label>visibility</label>
+			<value>利用可能</value>
+		</column>
+	</table>
+	<table type="ProfileRecordTypeVisibility">
+		<tableHeader type="ProfileRecordTypeVisibility">レコードタイプの設定</tableHeader>
+		<column>
+			<label>recordType</label>
+			<value>レコードタイプ</value>
+		</column>
+		<column>
+			<label>visible</label>
+			<value>選択済み</value>
+		</column>
+		<column>
+			<label>default</label>
+			<value>デフォルト</value>
+		</column>
+		<column>
+			<label>personAccountDefault</label>
+			<value>個人取引先</value>
+		</column>
+	</table>
+	<table type="ProfileUserPermission">
+		<tableHeader type="ProfileUserPermission">一般ユーザ権限</tableHeader>
+		<column>
+			<label>name</label>
+			<value>権限名</value>
+		</column>
+	</table>
+	<table type="ProfileObjectPermissions">
+		<tableHeader type="ProfileObjectPermissions">オブジェクト権限</tableHeader>
+		<column>
+			<label>object</label>
+			<value>オブジェクト</value>
+		</column>
+		<column>
+			<label>allowRead</label>
+			<value>参照</value>
+		</column>
+		<column>
+			<label>allowCreate</label>
+			<value>作成	</value>
+		</column>
+		<column>
+			<label>allowEdit</label>
+			<value>編集</value>
+		</column>
+		<column>
+			<label>allowDelete</label>
+			<value>削除</value>
+		</column>
+		<column>
+			<label>viewAllRecords</label>
+			<value>すべて表示</value>
+		</column>
+		<column>
+			<label>modifyAllRecords</label>
+			<value>すべて変更</value>
+		</column>
+	</table>
+	<table type="ProfileCustomPermissions">
+		<tableHeader type="ProfileCustomPermissions">カスタム権限</tableHeader>
+		<column>
+			<label>name</label>
+			<value>権限名</value>
+		</column>
+		<column>
+			<label>enabled</label>
+			<value>有効</value>
+		</column>
+	</table>
+	<table type="ProfileLoginHours">
+		<tableHeader type="ProfileLoginHours">ログイン時間帯の制限</tableHeader>
+		<column>
+			<label>weekdayStart</label>
+			<value>曜日</value>
+		</column>
+		<column>
+			<label>weekdayEnd</label>
+			<value>ログイン時間帯</value>
+		</column>
+	</table>
+	<table type="ProfileLoginIpRange">
+		<tableHeader type="ProfileLoginIpRange">ログイン IP アドレスの制限</tableHeader>
+		<column>
+			<label>startAddress</label>
+			<value>開始IPアドレス</value>
+		</column>
+		<column>
+			<label>endAddress</label>
+			<value>終了IPアドレス</value>
+		</column>
+		<column>
+			<label>description</label>
+			<value>説明</value>
+		</column>
+	</table>
+	<table type="ProfileApexClassAccess">
+		<tableHeader type="ProfileApexClassAccess">有効なApexクラス</tableHeader>
+		<column>
+			<label>apexClass</label>
+			<value>Apexクラス名</value>
+		</column>
+	</table>
+	<table type="ProfileApexPageAccess">
+		<tableHeader type="ProfileApexPageAccess">有効な Visualforceページ
+		</tableHeader>
+		<column>
+			<label>apexPage</label>
+			<value>Visualforce ページ名</value>
+		</column>
+	</table>
+	<table type="ProfileExternalDataSourceAccess">
+		<tableHeader type="ProfileExternalDataSourceAccess">有効なExternal Data Sources
+		</tableHeader>
+		<column>
+			<label>externalDataSource</label>
+			<value>External Data Sources</value>
+		</column>
+	</table>
+	<table type="ProfilePasswordPolicy">
+		<tableHeader type="ProfilePasswordPolicy">プロファイルパスワードポリシー
+		</tableHeader>
+		<column>
+			<label>lockoutInterval</label>
+			<value>ロックアウトの有効期間</value>
+		</column>
+		<column>
+			<label>maxLoginAttempts</label>
+			<value>ログイン失敗によりロックするまでの回数</value>
+		</column>
+		<column>
+			<label>minimumPasswordLength</label>
+			<value>最小パスワード長</value>
+		</column>
+		<column>
+			<label>minimumPasswordLifetime</label>
+			<value>パスワードの有効期限は 1 日以上にする必要があります</value>
+		</column>
+		<column>
+			<label>obscure</label>
+			<value>パスワードのリセットの秘密の回答を非表示にする</value>
+		</column>
+		<column>
+			<label>passwordComplexity</label>
+			<value>パスワード文字列の制限</value>
+		</column>
+		<column>
+			<label>passwordExpiration</label>
+			<value>パスワードの有効期間</value>
+		</column>
+		<column>
+			<label>passwordHistory</label>
+			<value>過去のパスワードの利用制限回数</value>
+		</column>
+		<column>
+			<label>passwordQuestion</label>
+			<value>パスワード質問の制限</value>
+		</column>
+		<column>
+			<label>profile</label>
+			<value>プロファイル</value>
+		</column>
+	</table>
+</MetaData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="AutoResponseRule">
+    <table type="AutoResponseRule">
+        <tableHeader type="AutoResponse Rule">AutoResponse Rule</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>是否改变</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>名称</value>
+        </column>
+        <column>
+            <label>active</label>
+            <value>是否激活</value>
+        </column>
+    </table> 
+	<table type="RuleEntry">
+        <tableHeader type="Rule Entry">Rule Entry</tableHeader>
+        <column>
+            <label>booleanFilter</label>
+            <value>布尔过滤器</value>
+        </column>
+        <column>
+            <label>criteriaItems</label>
+            <value>标准项目</value>
+        </column>
+        <column>
+            <label>formula</label>
+            <value>公式</value>
+        </column>
+        <column>
+            <label>replyToEmail</label>
+            <value>回复到邮箱</value>
+        </column>
+        <column>
+            <label>senderEmail</label>
+            <value>发送者邮箱</value>
+        </column>
+        
+        <column>
+            <label>senderName</label>
+            <value>发送者姓名</value>
+        </column>
+         <column>
+            <label>template</label>
+            <value>模板</value>
+        </column>
+    </table> 
+</MetaData>

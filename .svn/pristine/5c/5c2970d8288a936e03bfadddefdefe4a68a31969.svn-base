@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <MateDate type="CustomLabels">
+    <table type="CustomLabel">
+    
+        <tableHeader type="Custom Label">Custom Label</tableHeader>
+        <column>
+            <label>fullName</label>
+            <value>全名</value>
+        </column>
+        <column>
+            <label>shortDescription</label>
+            <value>简述</value>
+        </column>
+        <column>
+            <label>language</label>
+            <value>语言</value>
+        </column>
+        <column>
+            <label>protected</label>
+            <value>受保护</value>
+        </column>
+        <column>
+            <label>categories</label>
+            <value>描述</value>
+        </column>
+        <column>
+            <label>value</label>
+            <value>值</value>
+        </column>
+       
+       
+       </table>
+    </MateDate>

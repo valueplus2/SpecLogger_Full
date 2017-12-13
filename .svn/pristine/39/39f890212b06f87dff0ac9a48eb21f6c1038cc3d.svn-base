@@ -1,0 +1,269 @@
+2017-07-25 09:38:53.534 | [main] | DEBUG | source.Util | 104 | isBatch: false
+2017-07-25 09:38:53.802 | [main] | DEBUG | source.Util | 120 | exists: true
+2017-07-25 09:38:53.803 | [main] | DEBUG | source.Util | 121 | getPath: logs\normal_app.log
+2017-07-25 09:38:53.803 | [main] | DEBUG | source.Util | 123 | mm: logs\20170725093853.log
+2017-07-25 09:38:53.805 | [main] | DEBUG | source.Util | 129 | rename log file failure!
+2017-07-25 09:38:54.153 | [AWT-EventQueue-0] | INFO  | source.Util | 135 | SpecLogger initialization Start.
+2017-07-25 09:38:54.153 | [AWT-EventQueue-0] | INFO  | source.Util | 153 | WSC initialization Start.
+2017-07-25 09:39:04.326 | [AWT-EventQueue-0] | INFO  | source.Util | 801 | Begin licence file check.
+2017-07-25 09:39:04.672 | [AWT-EventQueue-0] | INFO  | source.Util | 822 | End of licence file check.
+2017-07-25 09:39:04.686 | [AWT-EventQueue-0] | INFO  | source.Util | 261 | InitLanguage Start.
+2017-07-25 09:39:04.687 | [AWT-EventQueue-0] | INFO  | source.Util | 316 | getConfig Start.
+2017-07-25 09:39:04.689 | [AWT-EventQueue-0] | INFO  | source.Util | 326 | getConfig complete.
+2017-07-25 09:39:04.721 | [AWT-EventQueue-0] | INFO  | source.Util | 274 | InitLanguage complete.
+2017-07-25 09:39:04.722 | [AWT-EventQueue-0] | INFO  | source.Util | 709 | SettingWin Start.
+2017-07-25 09:39:05.794 | [AWT-EventQueue-0] | INFO  | source.Util | 953 | SettingWin complete.
+2017-07-25 09:39:05.795 | [AWT-EventQueue-0] | INFO  | source.Util | 382 | Frame initialization Start.
+2017-07-25 09:39:06.113 | [AWT-EventQueue-0] | INFO  | source.Util | 663 | Frame initialization complete.
+2017-07-25 09:39:06.114 | [AWT-EventQueue-0] | INFO  | source.Util | 158 | WSC initialization complete
+2017-07-25 09:39:45.238 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 463 | D:\keypair\anyid_20171231.txt
+2017-07-25 09:39:45.371 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 801 | Begin licence file check.
+2017-07-25 09:39:45.378 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 822 | End of licence file check.
+2017-07-25 09:39:45.379 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 494 | -------------licensedDate=Sun Dec 31 00:00:00 JST 2017
+2017-07-25 09:39:45.380 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 510 | -------------licensedDate=Sun Dec 31 00:00:00 JST 2017
+2017-07-25 09:40:32.577 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 279 | SavePro start.
+2017-07-25 09:40:32.579 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 248 | The user does not have the change!
+2017-07-25 09:40:32.588 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 301 | SavePro complete.
+2017-07-25 09:40:32.682 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 184 | -------------SelectMetadata initialize started
+2017-07-25 09:40:32.713 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 763 | -------------SelectMetadata getMetadataFromServer started
+2017-07-25 09:40:32.961 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=CustomLabels
+2017-07-25 09:40:32.962 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=カスタム表示ラベル
+2017-07-25 09:40:33.130 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=StaticResource
+2017-07-25 09:40:33.131 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=静的リソース
+2017-07-25 09:40:33.269 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=AuraDefinitionBundle
+2017-07-25 09:40:33.269 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Lightning コンポーネント
+2017-07-25 09:40:34.248 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApexComponent
+2017-07-25 09:40:34.249 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Visualforce コンポーネント
+2017-07-25 09:40:34.463 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApexPage
+2017-07-25 09:40:34.464 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Visualforce ページ
+2017-07-25 09:40:34.589 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ExternalDataSource
+2017-07-25 09:40:34.589 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=外部データソース
+2017-07-25 09:40:34.747 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=CustomObject
+2017-07-25 09:40:34.748 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=カスタムオブジェクト
+2017-07-25 09:40:34.867 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ReportType
+2017-07-25 09:40:34.868 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=レポートタイプ
+2017-07-25 09:40:34.962 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Report
+2017-07-25 09:40:34.962 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=レポート
+2017-07-25 09:40:35.057 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Dashboard
+2017-07-25 09:40:35.058 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=ダッシュボード
+2017-07-25 09:40:35.198 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=AnalyticSnapshot
+2017-07-25 09:40:35.198 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=レポート作成スナップショット
+2017-07-25 09:40:35.402 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Layout
+2017-07-25 09:40:35.403 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=ページレイアウト
+2017-07-25 09:40:35.499 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Document
+2017-07-25 09:40:35.500 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=ドキュメント
+2017-07-25 09:40:35.638 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=CustomTab
+2017-07-25 09:40:35.639 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=タブ
+2017-07-25 09:40:35.769 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Workflow
+2017-07-25 09:40:35.770 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=ワークフロー
+2017-07-25 09:40:35.873 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=AssignmentRules
+2017-07-25 09:40:35.874 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=割り当てルール
+2017-07-25 09:40:35.975 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=AutoResponseRules
+2017-07-25 09:40:35.976 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=自動レスポンスルール
+2017-07-25 09:40:36.079 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=EscalationRules
+2017-07-25 09:40:36.080 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=エスカレーションルール
+2017-07-25 09:40:36.209 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApprovalProcess
+2017-07-25 09:40:36.210 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=承認プロセス
+2017-07-25 09:40:36.400 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=CustomObjectTranslation
+2017-07-25 09:40:36.401 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=カスタムオブジェクト翻訳
+2017-07-25 09:40:36.563 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApexClass
+2017-07-25 09:40:36.564 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Apex クラス
+2017-07-25 09:40:36.694 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApexTrigger
+2017-07-25 09:40:36.695 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Apex トリガ
+2017-07-25 09:40:36.809 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Profile
+2017-07-25 09:40:36.809 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=プロファイル
+2017-07-25 09:40:36.927 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=PermissionSet
+2017-07-25 09:40:36.927 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=権限セット
+2017-07-25 09:40:37.067 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=SharingRules
+2017-07-25 09:40:37.068 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=共有設定
+2017-07-25 09:40:37.177 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=EntitlementProcess
+2017-07-25 09:40:37.177 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=エンタイトルメントプロセス
+2017-07-25 09:40:37.291 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Network
+2017-07-25 09:40:37.292 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=コミュニティ
+2017-07-25 09:40:37.391 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Settings
+2017-07-25 09:40:37.391 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=組織の設定
+2017-07-25 09:42:02.884 | [main] | DEBUG | source.Util | 104 | isBatch: false
+2017-07-25 09:42:02.887 | [main] | DEBUG | source.Util | 120 | exists: true
+2017-07-25 09:42:02.887 | [main] | DEBUG | source.Util | 121 | getPath: logs\normal_app.log
+2017-07-25 09:42:02.887 | [main] | DEBUG | source.Util | 123 | mm: logs\20170725094202.log
+2017-07-25 09:42:02.887 | [main] | DEBUG | source.Util | 129 | rename log file failure!
+2017-07-25 09:42:02.974 | [AWT-EventQueue-0] | INFO  | source.Util | 135 | SpecLogger initialization Start.
+2017-07-25 09:42:02.974 | [AWT-EventQueue-0] | INFO  | source.Util | 153 | WSC initialization Start.
+2017-07-25 09:42:03.236 | [AWT-EventQueue-0] | INFO  | source.Util | 801 | Begin licence file check.
+2017-07-25 09:42:03.240 | [AWT-EventQueue-0] | INFO  | source.Util | 822 | End of licence file check.
+2017-07-25 09:42:03.250 | [AWT-EventQueue-0] | INFO  | source.Util | 261 | InitLanguage Start.
+2017-07-25 09:42:03.250 | [AWT-EventQueue-0] | INFO  | source.Util | 316 | getConfig Start.
+2017-07-25 09:42:03.251 | [AWT-EventQueue-0] | INFO  | source.Util | 326 | getConfig complete.
+2017-07-25 09:42:03.267 | [AWT-EventQueue-0] | INFO  | source.Util | 274 | InitLanguage complete.
+2017-07-25 09:42:03.267 | [AWT-EventQueue-0] | INFO  | source.Util | 709 | SettingWin Start.
+2017-07-25 09:42:03.414 | [AWT-EventQueue-0] | INFO  | source.Util | 953 | SettingWin complete.
+2017-07-25 09:42:03.414 | [AWT-EventQueue-0] | INFO  | source.Util | 382 | Frame initialization Start.
+2017-07-25 09:42:03.485 | [AWT-EventQueue-0] | INFO  | source.Util | 663 | Frame initialization complete.
+2017-07-25 09:42:03.486 | [AWT-EventQueue-0] | INFO  | source.Util | 158 | WSC initialization complete
+2017-07-25 09:42:11.725 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 463 | D:\keypair\anyid_20171231.txt
+2017-07-25 09:42:11.727 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 801 | Begin licence file check.
+2017-07-25 09:42:11.730 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 822 | End of licence file check.
+2017-07-25 09:42:11.731 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 494 | -------------licensedDate=Sun Dec 31 00:00:00 JST 2017
+2017-07-25 09:42:11.731 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 510 | -------------licensedDate=Sun Dec 31 00:00:00 JST 2017
+2017-07-25 09:42:43.379 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 279 | SavePro start.
+2017-07-25 09:42:43.381 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 248 | The user does not have the change!
+2017-07-25 09:42:43.383 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 301 | SavePro complete.
+2017-07-25 09:42:43.392 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 184 | -------------SelectMetadata initialize started
+2017-07-25 09:42:43.406 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 763 | -------------SelectMetadata getMetadataFromServer started
+2017-07-25 09:42:43.603 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=CustomLabels
+2017-07-25 09:42:43.604 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=カスタム表示ラベル
+2017-07-25 09:42:43.737 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=StaticResource
+2017-07-25 09:42:43.738 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=静的リソース
+2017-07-25 09:42:43.845 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=AuraDefinitionBundle
+2017-07-25 09:42:43.845 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Lightning コンポーネント
+2017-07-25 09:42:43.952 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApexComponent
+2017-07-25 09:42:43.952 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Visualforce コンポーネント
+2017-07-25 09:42:44.090 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApexPage
+2017-07-25 09:42:44.090 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Visualforce ページ
+2017-07-25 09:42:44.190 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ExternalDataSource
+2017-07-25 09:42:44.191 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=外部データソース
+2017-07-25 09:42:44.335 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=CustomObject
+2017-07-25 09:42:44.336 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=カスタムオブジェクト
+2017-07-25 09:42:44.444 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ReportType
+2017-07-25 09:42:44.445 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=レポートタイプ
+2017-07-25 09:42:44.541 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Report
+2017-07-25 09:42:44.542 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=レポート
+2017-07-25 09:42:44.639 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Dashboard
+2017-07-25 09:42:44.640 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=ダッシュボード
+2017-07-25 09:42:44.765 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=AnalyticSnapshot
+2017-07-25 09:42:44.766 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=レポート作成スナップショット
+2017-07-25 09:42:44.902 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Layout
+2017-07-25 09:42:44.902 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=ページレイアウト
+2017-07-25 09:42:45.000 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Document
+2017-07-25 09:42:45.000 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=ドキュメント
+2017-07-25 09:42:45.114 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=CustomTab
+2017-07-25 09:42:45.114 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=タブ
+2017-07-25 09:42:45.244 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Workflow
+2017-07-25 09:42:45.245 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=ワークフロー
+2017-07-25 09:42:45.344 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=AssignmentRules
+2017-07-25 09:42:45.345 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=割り当てルール
+2017-07-25 09:42:45.449 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=AutoResponseRules
+2017-07-25 09:42:45.450 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=自動レスポンスルール
+2017-07-25 09:42:45.549 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=EscalationRules
+2017-07-25 09:42:45.550 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=エスカレーションルール
+2017-07-25 09:42:45.667 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApprovalProcess
+2017-07-25 09:42:45.668 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=承認プロセス
+2017-07-25 09:42:45.895 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=CustomObjectTranslation
+2017-07-25 09:42:45.896 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=カスタムオブジェクト翻訳
+2017-07-25 09:42:46.056 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApexClass
+2017-07-25 09:42:46.057 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Apex クラス
+2017-07-25 09:42:46.549 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApexTrigger
+2017-07-25 09:42:46.550 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Apex トリガ
+2017-07-25 09:42:46.661 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Profile
+2017-07-25 09:42:46.662 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=プロファイル
+2017-07-25 09:42:46.765 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=PermissionSet
+2017-07-25 09:42:46.766 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=権限セット
+2017-07-25 09:42:46.897 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=SharingRules
+2017-07-25 09:42:46.898 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=共有設定
+2017-07-25 09:42:47.002 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=EntitlementProcess
+2017-07-25 09:42:47.002 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=エンタイトルメントプロセス
+2017-07-25 09:42:47.102 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Network
+2017-07-25 09:42:47.103 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=コミュニティ
+2017-07-25 09:42:47.204 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Settings
+2017-07-25 09:42:47.205 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=組織の設定
+2017-07-25 09:44:14.225 | [main] | DEBUG | source.Util | 104 | isBatch: false
+2017-07-25 09:44:14.229 | [main] | DEBUG | source.Util | 120 | exists: true
+2017-07-25 09:44:14.229 | [main] | DEBUG | source.Util | 121 | getPath: logs\normal_app.log
+2017-07-25 09:44:14.229 | [main] | DEBUG | source.Util | 123 | mm: logs\20170725094414.log
+2017-07-25 09:44:14.229 | [main] | DEBUG | source.Util | 129 | rename log file failure!
+2017-07-25 09:44:14.311 | [AWT-EventQueue-0] | INFO  | source.Util | 135 | SpecLogger initialization Start.
+2017-07-25 09:44:14.311 | [AWT-EventQueue-0] | INFO  | source.Util | 153 | WSC initialization Start.
+2017-07-25 09:44:14.568 | [AWT-EventQueue-0] | INFO  | source.Util | 801 | Begin licence file check.
+2017-07-25 09:44:14.572 | [AWT-EventQueue-0] | INFO  | source.Util | 822 | End of licence file check.
+2017-07-25 09:44:14.583 | [AWT-EventQueue-0] | INFO  | source.Util | 261 | InitLanguage Start.
+2017-07-25 09:44:14.583 | [AWT-EventQueue-0] | INFO  | source.Util | 316 | getConfig Start.
+2017-07-25 09:44:14.584 | [AWT-EventQueue-0] | INFO  | source.Util | 326 | getConfig complete.
+2017-07-25 09:44:14.596 | [AWT-EventQueue-0] | INFO  | source.Util | 274 | InitLanguage complete.
+2017-07-25 09:44:14.597 | [AWT-EventQueue-0] | INFO  | source.Util | 709 | SettingWin Start.
+2017-07-25 09:44:14.744 | [AWT-EventQueue-0] | INFO  | source.Util | 953 | SettingWin complete.
+2017-07-25 09:44:14.744 | [AWT-EventQueue-0] | INFO  | source.Util | 382 | Frame initialization Start.
+2017-07-25 09:44:14.845 | [AWT-EventQueue-0] | INFO  | source.Util | 663 | Frame initialization complete.
+2017-07-25 09:44:14.846 | [AWT-EventQueue-0] | INFO  | source.Util | 158 | WSC initialization complete
+2017-07-25 09:44:17.415 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 463 | D:\keypair\anyid_20171231.txt
+2017-07-25 09:44:17.417 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 801 | Begin licence file check.
+2017-07-25 09:44:17.420 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 822 | End of licence file check.
+2017-07-25 09:44:17.421 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 494 | -------------licensedDate=Sun Dec 31 00:00:00 JST 2017
+2017-07-25 09:44:17.421 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 510 | -------------licensedDate=Sun Dec 31 00:00:00 JST 2017
+2017-07-25 09:44:50.704 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 279 | SavePro start.
+2017-07-25 09:44:50.708 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 248 | The user does not have the change!
+2017-07-25 09:44:50.712 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 301 | SavePro complete.
+2017-07-25 09:44:50.799 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 184 | -------------SelectMetadata initialize started
+2017-07-25 09:44:50.849 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 763 | -------------SelectMetadata getMetadataFromServer started
+2017-07-25 09:44:51.050 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=CustomLabels
+2017-07-25 09:44:51.051 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=カスタム表示ラベル
+2017-07-25 09:44:51.161 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=StaticResource
+2017-07-25 09:44:51.162 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=静的リソース
+2017-07-25 09:44:51.267 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=AuraDefinitionBundle
+2017-07-25 09:44:51.267 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Lightning コンポーネント
+2017-07-25 09:44:51.369 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApexComponent
+2017-07-25 09:44:51.370 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Visualforce コンポーネント
+2017-07-25 09:44:51.509 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApexPage
+2017-07-25 09:44:51.509 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Visualforce ページ
+2017-07-25 09:44:51.620 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ExternalDataSource
+2017-07-25 09:44:51.621 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=外部データソース
+2017-07-25 09:44:51.755 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=CustomObject
+2017-07-25 09:44:51.756 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=カスタムオブジェクト
+2017-07-25 09:44:51.858 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ReportType
+2017-07-25 09:44:51.859 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=レポートタイプ
+2017-07-25 09:44:51.949 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Report
+2017-07-25 09:44:51.950 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=レポート
+2017-07-25 09:44:52.049 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Dashboard
+2017-07-25 09:44:52.050 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=ダッシュボード
+2017-07-25 09:44:52.170 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=AnalyticSnapshot
+2017-07-25 09:44:52.170 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=レポート作成スナップショット
+2017-07-25 09:44:52.300 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Layout
+2017-07-25 09:44:52.300 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=ページレイアウト
+2017-07-25 09:44:52.388 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Document
+2017-07-25 09:44:52.389 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=ドキュメント
+2017-07-25 09:44:52.498 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=CustomTab
+2017-07-25 09:44:52.499 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=タブ
+2017-07-25 09:44:52.622 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Workflow
+2017-07-25 09:44:52.624 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=ワークフロー
+2017-07-25 09:44:52.722 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=AssignmentRules
+2017-07-25 09:44:52.723 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=割り当てルール
+2017-07-25 09:44:52.824 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=AutoResponseRules
+2017-07-25 09:44:52.825 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=自動レスポンスルール
+2017-07-25 09:44:52.924 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=EscalationRules
+2017-07-25 09:44:52.925 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=エスカレーションルール
+2017-07-25 09:44:53.041 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApprovalProcess
+2017-07-25 09:44:53.042 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=承認プロセス
+2017-07-25 09:44:53.160 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=CustomObjectTranslation
+2017-07-25 09:44:53.161 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=カスタムオブジェクト翻訳
+2017-07-25 09:44:53.294 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApexClass
+2017-07-25 09:44:53.295 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Apex クラス
+2017-07-25 09:44:53.421 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=ApexTrigger
+2017-07-25 09:44:53.422 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=Apex トリガ
+2017-07-25 09:44:53.532 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Profile
+2017-07-25 09:44:53.533 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=プロファイル
+2017-07-25 09:44:53.646 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=PermissionSet
+2017-07-25 09:44:53.647 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=権限セット
+2017-07-25 09:44:53.775 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=SharingRules
+2017-07-25 09:44:53.776 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=共有設定
+2017-07-25 09:44:53.876 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=EntitlementProcess
+2017-07-25 09:44:53.877 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=エンタイトルメントプロセス
+2017-07-25 09:44:53.981 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Network
+2017-07-25 09:44:53.982 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=コミュニティ
+2017-07-25 09:44:54.087 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 784 | getMetadataFromServer m.getXmlName()=Settings
+2017-07-25 09:44:54.088 | [SwingWorker-pool-3-thread-1] | INFO  | source.Util | 785 | getMetadataFromServer Util.getTranslate=組織の設定
+2017-07-25 09:49:53.349 | [AWT-EventQueue-0] | INFO  | source.Util | 709 | SettingWin Start.
+2017-07-25 09:49:53.422 | [AWT-EventQueue-0] | INFO  | source.Util | 953 | SettingWin complete.
+2017-07-25 09:50:11.514 | [AWT-EventQueue-0] | INFO  | source.Util | 801 | Begin licence file check.
+2017-07-25 09:50:11.543 | [AWT-EventQueue-0] | FATAL | source.Util | 819 | Error of licence file check.
+2017-07-25 09:50:11.546 | [AWT-EventQueue-0] | FATAL | source.Util | 820 | [Ljava.lang.StackTraceElement;@6e93aee8
+2017-07-25 09:50:11.547 | [AWT-EventQueue-0] | INFO  | source.Util | 822 | End of licence file check.
+2017-07-25 09:50:28.443 | [AWT-EventQueue-0] | INFO  | source.Util | 801 | Begin licence file check.
+2017-07-25 09:50:28.445 | [AWT-EventQueue-0] | INFO  | source.Util | 822 | End of licence file check.
+2017-07-25 09:50:30.406 | [AWT-EventQueue-0] | INFO  | source.Util | 801 | Begin licence file check.
+2017-07-25 09:50:30.408 | [AWT-EventQueue-0] | INFO  | source.Util | 822 | End of licence file check.
+2017-07-25 09:50:30.411 | [AWT-EventQueue-0] | INFO  | source.Util | 279 | SavePro start.
+2017-07-25 09:50:30.412 | [AWT-EventQueue-0] | INFO  | source.Util | 248 | The user does not have the change!
+2017-07-25 09:50:30.418 | [AWT-EventQueue-0] | INFO  | source.Util | 301 | SavePro complete.
+2017-07-25 09:50:32.212 | [AWT-EventQueue-0] | INFO  | source.Util | 709 | SettingWin Start.
+2017-07-25 09:50:32.221 | [AWT-EventQueue-0] | INFO  | source.Util | 953 | SettingWin complete.
+2017-07-25 09:51:43.299 | [AWT-EventQueue-0] | INFO  | source.Util | 709 | SettingWin Start.
+2017-07-25 09:51:43.311 | [AWT-EventQueue-0] | INFO  | source.Util | 953 | SettingWin complete.

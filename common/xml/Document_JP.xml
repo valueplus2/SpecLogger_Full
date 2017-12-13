@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="Document">
+	<table type="DocumentFolder">
+		<tableHeader type="DocumentFolder">DocumentFolder</tableHeader>
+		<column>
+			<label>Changed</label>
+			<value>変更あり</value>
+		</column>
+		<column>
+			<label>fullName</label>
+			<value>一意の名前</value>
+		</column>
+		<column>
+			<label>Name</label>
+			<value>表示ラベル</value>
+		</column>
+		<column>
+			<label>accessType</label>
+			<value>アクセスタイプ</value>
+		</column>
+		<column>
+			<label>publicFolderAccess</label>
+			<value>公開フォルダのアクセス権</value>
+		</column>
+		<column>
+			<label>sharedTo</label>
+			<value>共有先</value>
+		</column>
+	</table>
+	<table type="document">
+		<tableHeader type="document">ドキュメント</tableHeader>
+		<column>
+			<label>Changed</label>
+			<value>変更あり</value>
+		</column>
+		<column>
+			<label>fullName</label>
+			<value>フルパス名</value>
+		</column>
+		<column>
+			<label>Name</label>
+			<value>ドキュメント名</value>
+		</column>
+		<column>
+			<label>description</label>
+			<value>説明</value>
+		</column>
+		<column>
+			<label>keywords</label>
+			<value>キーワード</value>
+		</column>
+		<column>
+			<label>internalUseOnly</label>
+			<value>社外秘フラグ</value>
+		</column>
+		<column>
+			<label>public</label>
+			<value>外部参照可</value>
+		</column>
+	</table>
+</MetaData>

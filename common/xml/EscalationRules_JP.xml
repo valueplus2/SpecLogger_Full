@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="EscalationRules">
+    <table type="EscalationRule">
+        <tableHeader type="Escalation Rule">エスカレーションルール</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>変更あり</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>ルール名</value>
+        </column>
+        <column>
+            <label>active</label>
+            <value>有効</value>
+        </column>
+    </table> 
+	<table type="RuleEntry">
+        <tableHeader type="Rule Entry">エントリ</tableHeader>
+        <column>
+            <label>booleanFilter</label>
+            <value>検索条件ロジック</value>
+        </column>
+        <column>
+            <label>criteriaItems</label>
+            <value>ルール条件</value>
+        </column>
+        <column>
+            <label>formula</label>
+            <value>入力規則数式</value>
+        </column>
+        <column>
+            <label>businessHoursSource</label>
+            <value>営業時間指定</value>
+        </column>
+        <column>
+            <label>businessHours</label>
+            <value>営業時間</value>
+        </column>
+        <column>
+            <label>disableEscalationWhenModified</label>
+            <value>ケースを初めて変更した後に無効化</value>
+        </column>
+         <column>
+            <label>escalationStartTime</label>
+            <value>エスカレーション時刻設定方法</value>
+        </column>
+        <column>
+            <label>assignedTo</label>
+            <value>割り当て先</value>
+        </column>
+        
+        <column>
+            <label>assignedToType</label>
+            <value>再割り当て先種別</value>
+        </column>
+        <column>
+            <label>notifyEmail</label>
+            <value>追加のメール</value>
+        </column>
+        <column>
+            <label>minutesToEscalation</label>
+            <value>経過時間（秒）</value>
+        </column>
+        <column>
+            <label>notifyCaseOwner</label>
+            <value>ケース所有者に通知</value>
+        </column>
+        <column>
+            <label>notifyToTemplate</label>
+            <value>通知メールテンプレート</value>
+        </column>
+        <column>
+            <label>notifyTo</label>
+            <value>通知先</value>
+        </column>
+        <column>
+            <label>assignedToTemplate</label>
+            <value>割り当て通知メールテンプレート</value>
+        </column>
+    </table> 
+</MetaData>

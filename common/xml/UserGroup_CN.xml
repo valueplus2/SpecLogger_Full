@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="UserGroup">
+    <table type="Group">
+        <tableHeader type="Group">Public Groups</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>Group Name</value>
+        </column>
+        <column>
+            <label>name</label>
+            <value>Label</value>
+        </column>       
+        <column>
+            <label>doesIncludeBosses</label>
+            <value>Grant Access Using Hierarchies</value>
+        </column>
+        <column>
+            <label>members</label>
+            <value>Members</value>
+        </column>    
+    </table>
+    <table type="Role">
+        <tableHeader type="Role">User Role</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>Role Name</value>
+        </column>
+        <column>
+            <label>name</label>
+            <value>Label</value>
+        </column> 
+        <column>
+            <label>parentRole</label>
+            <value>This role reports to</value>
+        </column>       
+        <column>
+            <label>portalType</label>
+            <value>Portal Type</value>
+        </column>
+        <column>
+            <label>RollupDescription</label>
+            <value>Roll up Description</value>
+        </column>    
+        <column>
+            <label>OpportunityAccessForAccountOwner</label>
+            <value>Opportunity Access For Account Owner</value>
+        </column> 
+        <column>
+            <label>CaseAccessForAccountOwner</label>
+            <value>Case Access For Account Owner</value>
+        </column>     
+        <column>
+            <label>ContactAccessForAccountOwner</label>
+            <value>Contact Access For Account Owner</value>
+        </column>
+    </table>
+    <table type="Queue">
+        <tableHeader type="Queue">Queues</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>Queue Name</value>
+        </column>
+        <column>
+            <label>name</label>
+            <value>Label</value>
+        </column>       
+        <column>
+            <label>email</label>
+            <value>Queue Email</value>
+        </column>
+        <column>
+            <label>doesSendEmailToMembers</label>
+            <value>Send Email to Members</value>
+        </column>    
+         <column>
+            <label>queueSobject</label>
+            <value>Supported Objects</value>
+        </column> 
+    </table>    
+</MetaData>

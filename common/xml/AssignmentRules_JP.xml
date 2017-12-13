@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="AssignmentRules">
+    <table type="AssignmentRule">
+        <tableHeader type="Assignment Rule">割り当てルール</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>変更あり</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>ルール名</value>
+        </column>
+        <column>
+            <label>active</label>
+            <value>有効</value>
+        </column>
+    </table> 
+	<table type="RuleEntry">
+        <tableHeader type="Rule Entry">ルールエントリ</tableHeader>
+        <column>
+            <label>booleanFilter</label>
+            <value>検索条件ロジック</value>
+        </column>
+        <column>
+            <label>criteriaItems</label>
+            <value>検索条件リスト</value>
+        </column>
+        <column>
+            <label>formula</label>
+            <value>数式</value>
+        </column>
+        
+        <column>
+            <label>assignedToType</label>
+            <value>任命先タイプ</value>
+        </column>
+        <column>
+            <label>assignedTo</label>
+            <value>任命先</value>
+        </column>
+        <column>
+            <label>template</label>
+            <value>メールテンプレート</value>
+        </column>
+         <column>
+            <label>team</label>
+            <value>ケースチーム</value>
+        </column>
+        <column>
+            <label>overrideExistingTeams</label>
+            <value>割り当て完了後ケースチームをリセットするか</value>
+        </column>
+        <column>
+        	<label>notifyCcRecipients</label>
+        	<value>所有者を再割り当てしない</value>
+        </column>
+    </table> 
+</MetaData>

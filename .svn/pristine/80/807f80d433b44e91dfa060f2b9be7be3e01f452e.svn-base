@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="CustomMetadata">
+    <table type="CustomMetadataAttribute">
+        <tableHeader type="Custom Metadata Attribute">カスタムメタデータ型の詳細</tableHeader>
+        <column>
+            <label>label</label>
+            <value>表示ラベル</value>
+        </column>
+       <column>
+            <label>objectName</label>
+            <value>オブジェクト名</value>
+        </column>        
+       <column>
+            <label>fullName</label>
+            <value>API 参照名</value>
+        </column> 
+       <column>
+            <label>Description</label>
+            <value>説明</value>
+        </column> 
+       <column>
+            <label>visibility</label>
+            <value>表示</value>
+        </column>                                   
+    </table>
+    <table type="CustomField">
+        <tableHeader type="Custom Field">カスタム項目</tableHeader>
+        <column>
+            <label>label</label>
+            <value>表示ラベル</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>項目名</value>
+        </column>
+        <column>
+            <label>type</label>
+            <value>データ型</value>
+        </column>
+        <column>
+            <label>caseSensitive</label>
+            <value>大文字と小文字を区別する</value>
+            <!-- <value>大文字と小文字を区別</value> -->
+        </column>
+        <column>
+            <label>defaultValue</label>
+            <value>デフォルト値</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>説明</value>
+        </column>
+        <!--  <column>
+            <label>displayLocationInDecimal</label>
+            <value>displayLocationInDecimal</value>
+        </column>-->
+        <column>
+        	<label>inlineHelpText</label>
+        	<value>インラインヘルプテキスト</value>
+        </column>
+        <column>
+            <label>encrypted</label>
+            <value>暗号化</value>
+        </column>
+        <column>
+            <label>formula</label>
+            <value>数式</value>
+        </column>
+        <column>
+            <label>formulaTreatBlankAs</label>
+            <value>数式内の空白の処理</value>
+        </column>
+        <column>
+            <label>displayFormat</label>
+            <value>表示形式</value>
+        </column>
+        <!-- <column>
+            <label>indexed</label>
+            <value>indexed</value>
+        </column> -->
+        <column>
+            <label>externalId</label>
+            <value>外部 ID</value>
+        </column>
+        <column>
+            <label>length</label>
+            <value>文字数</value>
+        </column>
+        <column>
+            <label>scale</label>
+            <value>小数点の位置</value>
+        </column>
+        <column>
+            <label>precision</label>
+            <value>精度</value>
+        </column>
+        <column>
+            <label>required</label>
+            <value>必須項目</value>
+        </column>
+        <column>
+            <label>unique</label>
+            <value>ユニーク</value>
+        </column>
+        <column>
+            <label>visibleLines</label>
+            <value>表示される行</value>
+        </column>
+        <column>
+        	<label>startingNumber</label>
+        	<value>開始番号</value>
+        </column>
+        <!-- ><column>
+        	<label>trueValueIndexed</label>
+        	<value>trueValueIndexed</value>
+        </column> -->
+    </table>
+    <table type="ValidationRule">
+        <tableHeader type="Validation Rule">入力規則</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>変更あり</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>ルール名</value>
+        </column>         
+        <column>
+            <label>active</label>
+            <value>有効</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>説明</value>
+        </column>
+        <column>
+            <label>errorConditionFormula</label>
+            <value>エラー条件数式</value>
+        </column>
+        <column>
+            <label>errorDisplayField</label>
+            <value>エラー表示場所</value>
+        </column>
+        <column>
+            <label>errorMessage</label>
+            <value>エラーメッセージ</value>
+        </column> 
+    </table>         
+    <table type="Manage">
+    	<tableHeader type="Manage">管理</tableHeader>
+    	<column>
+    		<label>Label</label>
+    		<value>表示ラベル</value>
+    	</column>
+    	<column>
+    		<label>Protected</label>
+    		<value>保護コンポーネント</value>
+    	</column> 	    	    	    	
+    </table> 
+</MetaData>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="ApexComponent">
+	<table type="ApexComponent">
+        <tableHeader type="Apex Component">Apex Component</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>fullName</value>
+        </column>
+        <column>
+            <label>label</label>
+            <value>label</value>
+        </column>
+        <column>
+            <label>NamespacePrefix</label>
+            <value>NamespacePrefix</value>
+        </column>
+        <column>
+            <label>apiVersion</label>
+            <value>apiVersion</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>description</value>
+        </column>
+        <column>
+            <label>CreatedBy</label>
+            <value>CreatedBy</value>
+        </column>
+        <column>
+            <label>CreatedDate</label>
+            <value>CreatedDate</value>
+        </column>
+        <column>
+            <label>LastModifiedBy</label>
+            <value>LastModifiedBy</value>
+        </column>
+        <column>
+            <label>LastModifiedDate</label>
+            <value>LastModifiedDate</value>
+        </column>
+    </table>
+    <table type="PackageVersion">
+        <tableHeader type="Package Version">Package Version</tableHeader>
+        <column>
+            <label>namespace</label>
+            <value>namespace</value>
+        </column>
+        <column>
+            <label>majorNumber</label>
+            <value>majorNumber</value>
+        </column>
+        <column>
+            <label>minorNumber</label>
+            <value>minorNumber</value>
+        </column>
+    </table>
+</MetaData>

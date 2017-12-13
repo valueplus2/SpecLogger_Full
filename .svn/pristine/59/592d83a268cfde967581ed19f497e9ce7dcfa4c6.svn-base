@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="CustomObject">
+    <table type="ObjectAttribute">
+        <tableHeader type="Object Attribute">Object Attribute</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>更新标志</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>对象名</value>
+        </column>
+        <column>
+            <label>label</label>
+            <value>标签</value>
+        </column>    
+        <column>
+            <label>pluralLabel</label>
+            <value>复数标签</value>
+        </column>    
+        <column>
+            <label>enableDivisions</label>
+            <value>Enable Divisions</value>
+        </column>        
+         <column>
+            <label>compactLayoutAssignment</label>
+            <value>Compact Layout Assignment</value>
+        </column> 
+        <column>
+            <label>customHelp</label>
+            <value>上下文相关帮助设置</value>
+        </column>
+        <column>
+            <label>deploymentStatus</label>
+            <value>开发状态</value>
+        </column>                                           
+        <column>
+            <label>description</label>
+            <value>描述</value>
+        </column>
+        <column>
+            <label>enableActivities</label>
+            <value>允许活动</value>
+        </column>       
+        <column>
+            <label>enableEnhancedLookup</label>
+            <value>Enabling Enhanced Lookups</value>
+        </column>        
+        <column>
+            <label>enableFeeds</label>
+            <value>Track Feeds</value>
+        </column>
+         <column>
+            <label>enableHistory</label>
+            <value>跟踪字段历史</value>
+        </column>
+         <column>
+            <label>enableReports</label>
+            <value>允许报表</value>
+        </column>        
+         <column>
+            <label>enableSharing</label>
+            <value>允许共享</value>
+        </column>        
+        <column>
+            <label>enableBulkApi</label>
+            <value>允许API批量访问</value>
+        </column> 
+        <column>
+            <label>enableStreamingApi</label>
+            <value>允许API串流访问</value>
+        </column>
+         <column>
+            <label>gender</label>
+            <value>性别</value>
+        </column>         
+         <column>
+            <label>household</label>
+            <value>家族</value>
+        </column>                
+         <column>
+            <label>nameField</label>
+            <value>记录名</value>
+        </column>
+         <column>
+            <label>recordTypeTrackFeedHistory</label>
+            <value>Record Type Track Feed History</value>
+        </column>
+         <column>
+            <label>recordTypeTrackHistory</label>
+            <value>record Type Track History</value>
+        </column>
+        <column>
+            <label>startsWith</label>
+            <value>元音开头</value>
+        </column>
+        <column>
+            <label>allowInChatterGroups</label>
+            <value>允许加入聊天组</value>
+        </column>
+    </table>
+    <table type="ActionOverride">
+        <tableHeader type="Action Override">Action Override</tableHeader>
+        <column>
+            <label>actionName</label>
+            <value>Action Name</value>
+        </column>
+        <column>
+            <label>comment</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>content</label>
+            <value>Content Source</value>
+        </column>
+        <column>
+            <label>skipRecordTypeSelect</label>
+            <value>Skip Record Type Select</value>
+        </column>
+        <column>
+            <label>type</label>
+            <value>Type</value>
+        </column>
+    </table>
+    <table type="BusinessProcess">
+        <tableHeader type="Business Process">Business Process</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>API Name</value>
+        </column>
+        <column>
+            <label>isActive</label>
+            <value>Active</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>namespacePrefix</label>
+            <value>NamespacePrefix</value>
+        </column>
+        <column>
+            <label>values</label>
+            <value>Values</value>
+        </column>
+    </table> 
+    <table type="CompactLayout">
+        <tableHeader type="Compact Layout">Compact Layout</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>API Name</value>
+        </column>
+        <column>
+            <label>label</label>
+            <value>Label</value>
+        </column>
+        <column>
+            <label>fields</label>
+            <value>Fields</value>
+        </column>
+    </table>      
+    <table type="CustomField">
+        <tableHeader type="Custom Field">Custom Field</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>label</label>
+            <value>Label</value>
+        </column> 
+        <column>
+            <label>fullName</label>
+            <value>API Name</value>
+        </column> 
+        <column>
+            <label>Type</label>
+            <value>Data Type</value>
+        </column>    
+        <column>
+            <label>caseSensitive</label>
+            <value>Case Sensitive</value>
+        </column>        
+         <column>
+            <label>defaultValue</label>
+            <value>Default Value</value>
+        </column> 
+        <column>
+            <label>deleteConstraint</label>
+            <value>Delete Constraint</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>displayFormat</label>
+            <value>Display Format</value>
+        </column>
+
+        <column>
+            <label>externalId</label>
+            <value>External ID</value>
+        </column>
+        <column>
+            <label>formula</label>
+            <value>Formula</value>
+        </column>
+        <column>
+            <label>formulaTreatBlankAs</label>
+            <value>Formula Treat Blank As</value>
+        </column> 
+        <column>
+            <label>inlineHelpText</label>
+            <value>Help Text</value>
+        </column>
+        <column>
+            <label>reparentableMasterDetail</label>
+            <value>Reparentable Master Detail</value>
+        </column>    
+        <column>
+            <label>length</label>
+            <value>Length</value>
+        </column>    
+        <column>
+            <label>lookupFilter</label>
+            <value>Lookup Filter</value>
+        </column>        
+         <column>
+            <label>maskChar</label>
+            <value>Mask Char</value>
+        </column>
+         <column>
+            <label>maskType</label>
+            <value>Mask Type</value>
+        </column>  
+        <column>
+            <label>picklist</label>
+            <value>Picklist</value>
+        </column>
+        <column>
+            <label>populateExistingRows</label>
+            <value>Populate Existing Rows</value>
+        </column>
+        <column>
+            <label>scale</label>
+            <value>Scale</value>
+        </column>
+        <column>
+            <label>precision</label>
+            <value>Precision</value>
+        </column>
+        <column>
+            <label>ReferenceTo</label>
+            <value>Reference To</value>
+        </column>
+        <column>
+            <label>relationshipLabel</label>
+            <value>Relationship Label</value>
+        </column>
+        <column>
+            <label>relationshipName</label>
+            <value>Relationship Name</value>
+        </column> 
+        <column>
+            <label>relationshipOrder</label>
+            <value>Relationship Order</value>
+        </column>    
+        <column>
+            <label>required</label>
+            <value>Required</value>
+        </column>    
+        <column>
+            <label>startingNumber</label>
+            <value>Starting Number</value>
+        </column>        
+         <column>
+            <label>stripMarkup</label>
+            <value>Strip Markup</value>
+        </column> 
+        <column>
+            <label>summarizedField</label>
+            <value>Summarized Field</value>
+        </column>
+        <column>
+            <label>summaryFilterItems</label>
+            <value>Summary Filter Items</value>
+        </column>
+        <column>
+            <label>summaryForeignKey</label>
+            <value>Summary Foreign Key</value>
+        </column>
+        <column>
+            <label>summaryOperation</label>
+            <value>Summary Operation</value>
+        </column>
+        <column>
+            <label>trackFeedHistory</label>
+            <value>Track Feed History</value>
+        </column>
+        <column>
+            <label>trackHistory</label>
+            <value>Track History</value>
+        </column>
+        <column>
+            <label>trackTrending</label>
+            <value>Track Trending</value>
+        </column> 
+        <column>
+            <label>unique</label>
+            <value>Unique</value>
+        </column>
+        <column>
+            <label>visibleLines</label>
+            <value>Visible Lines</value>
+        </column>    
+        <column>
+            <label>writeRequiresMasterRead</label>
+            <value>Write Requires Master Read</value>
+        </column>
+        <column>
+        	<label>referenceTargetField</label>
+        	<value>参照目标字段</value>
+        </column> 
+         <column>
+        	<label>encrypted</label>
+        	<value>加密</value>
+        </column>
+        <column>
+        	<label>externalDeveloperName</label>
+        	<value>外部开发者名称</value>
+        </column>
+        <column>
+        	<label>isFilteringDisabled</label>
+        	<value>过滤不可用</value>
+        </column>
+        <column>
+        	<label>isNameField</label>
+        	<value>是名称字段</value>
+        </column>
+        <column>
+        	<label>isSortingDisabled</label>
+        	<value>排序不可用</value>
+        </column>      
+    </table>
+    <table type="FieldSets">
+        <tableHeader type="Field Sets">Field Sets</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>API Name</value>
+        </column>
+        <column>
+            <label>label</label>
+            <value>Label</value>
+        </column>
+        <column>
+            <label>Usedfields</label>
+            <value>Used fields</value>
+        </column>
+        <column>
+            <label>AvailableFields</label>
+            <value>Available Fields</value>
+        </column>
+    </table>  
+    <table type="LookupFilter">
+        <tableHeader type="Lookup Filter">Lookup Filter</tableHeader>
+        <column>
+            <label>No.</label>
+            <value>No.</value>
+        </column>
+        <column>
+            <label>active</label>
+            <value>Active</value>
+        </column>
+        <column>
+            <label>booleanFilter</label>
+            <value>Filter Logic</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>infoMessage</label>
+            <value>Information Message</value>
+        </column>
+        <column>
+            <label>FilterItems</label>
+            <value>Filter Items</value>
+        </column>
+        <column>
+            <label>errorMessage</label>
+            <value>Error Message</value>
+        </column>
+        <column>
+            <label>isOptional</label>
+            <value>Optional</value>
+        </column>
+        <column>
+            <label>sourceObject</label>
+            <value>Source Object</value>
+        </column>       
+    </table> 
+    <table type="ListViews">
+        <tableHeader type="List Views">List Views</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>API Name</value>
+        </column>
+        <column>
+            <label>label</label>
+            <value>Label</value>
+        </column>        
+        <column>
+            <label>booleanFilter</label>
+            <value>Filter Logic</value>
+        </column>
+        <column>
+            <label>division</label>
+            <value>Division</value>
+        </column>
+        <column>
+            <label>filterScope</label>
+            <value>Filter Scope</value>
+        </column>
+        <column>
+            <label>Filter</label>
+            <value>Filter</value>
+        </column>
+        <column>
+            <label>language</label>
+            <value>Language</value>
+        </column>
+        <column>
+            <label>queue</label>
+            <value>Queue</value>
+        </column>
+        <column>
+            <label>SharedTo</label>
+            <value>Shared To</value>
+        </column>       
+    </table>
+    <table type="RecordType">
+        <tableHeader type="Record Type">Record Type</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>label</label>
+            <value>Label</value>
+        </column>         
+        <column>
+            <label>fullName</label>
+            <value>API Name</value>
+        </column>
+        <column>
+            <label>Description</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>active</label>
+            <value>Active</value>
+        </column>
+        <column>
+            <label>businessProcess</label>
+            <value>Business Process</value>
+        </column>
+        <column>
+            <label>compactLayoutAssignment</label>
+            <value>Compact Layout Assignment</value>
+        </column>
+        <column>
+            <label>Picklist</label>
+            <value>Picklist</value>
+        </column>    
+    </table>    
+    <table type="ReferencedPickLists">
+        <tableHeader type="Referenced PickLists">Referenced PickLists</tableHeader>
+        <column>
+            <label>ReferenceName</label>
+            <value>Reference Name</value>
+        </column>
+    </table>
+    <table type="SearchLayout">
+        <tableHeader type="Search　Layout">Search　Layout</tableHeader>
+        <column>
+            <label>customTabListAdditionalFields</label>
+            <value>Custom Tab List Additional Fields</value>
+        </column>
+        <column>
+            <label>excludedStandardButtons</label>
+            <value>excluded Standard Buttons</value>
+        </column>         
+        <column>
+            <label>listViewButtons</label>
+            <value>List View Buttons</value>
+        </column>
+        <column>
+            <label>lookupDialogsAdditionalFields</label>
+            <value>Lookup Dialogs Additional Fields</value>
+        </column>
+        <column>
+            <label>lookupFilterFields</label>
+            <value>Lookup Filter Fields</value>
+        </column>
+        <column>
+            <label>lookupPhoneDialogsAdditionalFields</label>
+            <value>Lookup Phone Dialogs Additional Fields</value>
+        </column>
+        <column>
+            <label>searchFilterFields</label>
+            <value>Search Filter Fields</value>
+        </column>
+        <column>
+            <label>searchResultsAdditionalFields</label>
+            <value>Search Results Additional Fields</value>
+        </column>  
+        <column>
+            <label>searchResultsCustomButtons</label>
+            <value>Search Results Custom Buttons</value>
+        </column>    
+    </table>   
+    <table type="WebLink">
+        <tableHeader type="Web Link">Web Link</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>API Name</value>
+        </column>         
+        <column>
+            <label>linkType</label>
+            <value>Link Type</value>
+        </column>
+        <column>
+            <label>masterLabel</label>
+            <value>Master Label</value>
+        </column>
+        <column>
+            <label>displayType</label>
+            <value>Display Type</value>
+        </column>
+        <column>
+            <label>availability</label>
+            <value>Availability</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>encodingKey</label>
+            <value>EncodingKey</value>
+        </column>  
+        <column>
+            <label>hasMenubar</label>
+            <value>Has Menubar</value>
+        </column> 
+        <column>
+            <label>hasScrollbars</label>
+            <value>Has Scrollbars</value>
+        </column>
+        <column>
+            <label>hasToolbar</label>
+            <value>Has Toolbar</value>
+        </column>         
+        <column>
+            <label>height</label>
+            <value>Height</value>
+        </column>
+        <column>
+            <label>width</label>
+            <value>Width</value>
+        </column>        
+        <column>
+            <label>isResizable</label>
+            <value>Resizable</value>
+        </column>
+        <column>
+            <label>openType</label>
+            <value>Open Type</value>
+        </column>
+        <column>
+            <label>position</label>
+            <value>Position</value>
+        </column>
+        <column>
+            <label>protected</label>
+            <value>Protected</value>
+        </column>
+        <column>
+            <label>requireRowSelection</label>
+            <value>Require Row Selection</value>
+        </column>  
+        <column>
+            <label>scontrol</label>
+            <value>S-Control</value>
+        </column>    
+        <column>
+            <label>showsLocation</label>
+            <value>Shows Location</value>
+        </column>
+        <column>
+            <label>showsStatus</label>
+            <value>Shows Status</value>
+        </column>
+        <column>
+            <label>url</label>
+            <value>URL</value>
+        </column>  
+        <column>
+            <label>page</label>
+            <value>Page</value>
+        </column>     
+    </table>
+    <table type="ValidationRule">
+        <tableHeader type="Validation Rule">Validation Rule</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>API Name</value>
+        </column>         
+        <column>
+            <label>active</label>
+            <value>Active</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>errorConditionFormula</label>
+            <value>Error Condition Formula</value>
+        </column>
+        <column>
+            <label>errorDisplayField</label>
+            <value>Error Display Field</value>
+        </column>
+        <column>
+            <label>errorMessage</label>
+            <value>Error Message</value>
+        </column> 
+    </table>     
+    <table type="SharingReason">
+        <tableHeader type="Sharing Reason">Sharing Reason</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column> 
+        <column>
+            <label>fullName</label>
+            <value>API Name</value>
+        </column>  
+        <column>
+            <label>label</label>
+            <value>Label</value>
+        </column>  
+    </table> 
+    <table type="ApexSharingRecalculation">
+        <tableHeader type="Apex Sharing Recalculation">Apex Sharing Recalculation</tableHeader>
+        <column>
+            <label>className</label>
+            <value>Class Name</value>
+        </column>  
+    </table> 
+    <table type="DependentPicklist">
+        <tableHeader type="Dependent Picklist">Dependent Picklist</tableHeader>
+        <column>
+            <label>fieldHeader</label>
+            <value>(Controlling field)  -- (Controlled field) </value>
+        </column>  
+    </table>         
+</MetaData>

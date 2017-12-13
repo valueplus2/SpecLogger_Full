@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="EscalationRules">
+    <table type="EscalationRule">
+        <tableHeader type="Escalation Rule">Escalation Rule</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>fullName</value>
+        </column>
+        <column>
+            <label>active</label>
+            <value>active</value>
+        </column>
+    </table> 
+	<table type="RuleEntry">
+        <tableHeader type="Rule Entry">Rule Entry</tableHeader>
+        <column>
+            <label>booleanFilter</label>
+            <value>booleanFilter</value>
+        </column>
+        <column>
+            <label>criteriaItems</label>
+            <value>criteriaItems</value>
+        </column>
+        <column>
+            <label>formula</label>
+            <value>formula</value>
+        </column>
+        <column>
+            <label>businessHoursSource</label>
+            <value>businessHoursSource</value>
+        </column>
+        <column>
+            <label>businessHours</label>
+            <value>businessHours</value>
+        </column>
+        <column>
+            <label>disableEscalationWhenModified</label>
+            <value>disableEscalationWhenModified</value>
+        </column>
+         <column>
+            <label>escalationStartTime</label>
+            <value>escalationStartTime</value>
+        </column>
+        <column>
+            <label>assignedTo</label>
+            <value>assignedTo</value>
+        </column>
+        
+        <column>
+            <label>assignedToType</label>
+            <value>assignedToType</value>
+        </column>
+        <column>
+            <label>notifyEmail</label>
+            <value>notifyEmail</value>
+        </column>
+        <column>
+            <label>minutesToEscalation</label>
+            <value>minutesToEscalation</value>
+        </column>
+        <column>
+            <label>notifyCaseOwner</label>
+            <value>notifyCaseOwner</value>
+        </column>
+        <column>
+            <label>notifyToTemplate</label>
+            <value>notifyToTemplate</value>
+        </column>
+        <column>
+            <label>notifyTo</label>
+            <value>notifyTo</value>
+        </column>
+        <column>
+            <label>assignedToTemplate</label>
+            <value>assignedToTemplate</value>
+        </column>
+    </table> 
+</MetaData>

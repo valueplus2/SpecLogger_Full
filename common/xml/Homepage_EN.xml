@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="Homepage">
+    <table type="CustomPageWebLink ">
+        <tableHeader type="Custom Page WebLink">Custom Page WebLink</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullname</label>
+            <value>API Name</value>
+        </column>
+        <column>
+            <label>masterLabel</label>
+            <value>Master Label</value>
+        </column>
+        <column>
+            <label>linkType</label>
+            <value>Link Type</value>
+        </column>
+        <column>
+            <label>Source</label>
+            <value>Source</value>
+        </column>
+        <column>
+            <label>availability</label>
+            <value>Availability</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>displayType</label>
+            <value>Display Type</value>
+        </column>
+        <column>
+            <label>encodingKey</label>
+            <value>EncodingKey</value>
+        </column>
+        <column>
+            <label>hasMenubar</label>
+            <value>Has Menubar</value>
+        </column>
+        <column>
+            <label>hasScrollbars</label>
+            <value>Has Scrollbars</value>
+        </column>
+        <column>
+            <label>hasToolbar</label>
+            <value>Has Toolbar</value>
+        </column> 
+        <column>
+            <label>isResizable</label>
+            <value>Resizable</value>
+        </column>
+        <column>
+            <label>requireRowSelection</label>
+            <value>Require Row Selection</value>
+        </column>
+        <column>
+            <label>showsLocation</label>
+            <value>Shows Location</value>
+        </column>
+        <column>
+            <label>showsStatus</label>
+            <value>Shows Status</value>
+        </column>
+        <column>
+            <label>position</label>
+            <value>Position</value>
+        </column>
+        <column>
+            <label>height</label>
+            <value>Height</value>
+        </column>
+        <column>
+            <label>width</label>
+            <value>Width</value>
+        </column>  
+        <column>
+            <label>openType</label>
+            <value>Open Type</value>
+        </column>
+        <column>
+            <label>protected</label>
+            <value>Protected</value>
+        </column>
+     </table> 
+    <table type="HomepageComponent">
+        <tableHeader type="Homepage Component">Homepage Component</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>API Name</value>
+        </column>         
+        <column>
+            <label>pageComponentType</label>
+            <value>Page Component Type</value>
+        </column>
+        <column>
+            <label>Source</label>
+            <value>Source</value>
+        </column>
+        <column>
+            <label>height</label>
+            <value>Height</value>
+        </column>
+        <column>
+            <label>width</label>
+            <value>Width</value>
+        </column>          
+        <column>
+            <label>showScrollbars</label>
+            <value>Show Scrollbars</value>
+        </column>
+        <column>
+            <label>showLabel</label>
+            <value>Show Label</value>
+        </column>
+    </table> 
+    <table type="HomepageLayout">
+        <tableHeader type="Homepage Layout">Homepage Layout</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>API Name</value>
+        </column>         
+        <column>
+            <label>narrowComponents</label>
+            <value>Narrow Components</value>
+        </column>
+        <column>
+            <label>wideComponents</label>
+            <value>Wide Components</value>
+        </column>
+    </table>
+</MetaData>

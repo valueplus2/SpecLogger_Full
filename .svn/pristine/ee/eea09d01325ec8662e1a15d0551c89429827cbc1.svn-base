@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="Workflow">
+    <table type="WorkflowRule">
+        <tableHeader type="WorkFlow Rule">Rule</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>Rule Name</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>active</label>
+            <value>Active</value>
+        </column>
+        <column>
+            <label>triggerType</label>
+            <value>Trigger Type</value>
+        </column>
+        <column>
+            <label>formula</label>
+            <value>Formula Value</value>
+        </column>
+        <column>
+            <label>criteriaItemsfield</label>
+            <value>criteria</value>
+        </column>
+        <column>
+            <label>booleanFilter</label>
+            <value>Boolean Filter</value>
+        </column>
+        <column>
+            <label>ActionsType And Name</label>
+            <value>Action Type And Name</value>
+        </column>
+     	<column>
+            <label>workflowTimeTriggers</label>
+            <value>WorkFlow Time Triggers</value>
+        </column>
+    </table>
+    <table type="WorkflowTimeTriggers">
+    	<tableHeader type="WorkFlow Time Triggers">Time Triggers</tableHeader>
+    	<column>
+            <label>ReferenceName</label>
+            <value>Reference Name</value>
+        </column>
+        <column>
+            <label>OffSetFromField</label>
+            <value>OffSetFromField</value>
+        </column>
+        <column>
+            <label>TimeLength</label>
+            <value>TimeLength</value>
+        </column>
+        <column>
+            <label>WorkflowTimeTriggerUnit</label>
+            <value>WorkFlow TimeTrigger Unit</value>
+        </column>
+        <column>
+            <label>ActionsType And Name</label>
+            <value>Action Type And Name</value>
+        </column>
+    </table>
+    <table type="WorkflowTask">
+        <tableHeader type="WorkFlow Task">Task</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>Unique Name</value>
+        </column>
+        <column>
+            <label>assignedTo</label>
+            <value>Assigned To</value>
+        </column>
+        <column>
+            <label>assignedToType</label>
+            <value>Assigned To Type</value>
+        </column>
+        <column>
+            <label>subject</label>
+            <value>Subject</value>
+        </column>
+        <column>
+            <label>dueDateOffset</label>
+            <value>Due Date</value>
+        </column>
+        <column>
+            <label>offsetFromField</label>
+            <value>offsetFromField</value>
+        </column>
+        <column>
+            <label>notifyAssignee</label>
+            <value>Notify Assignee</value>
+        </column>
+        <column>
+            <label>protected</label>
+            <value>Protected Component</value>
+        </column>
+        <column>
+            <label>status</label>
+            <value>Status</value>
+        </column>
+        <column>
+            <label>priority</label>
+            <value>Priority</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>description</value>
+        </column>
+    </table>
+    <table type="WorkflowAlert">
+        <tableHeader type="WorkFlow Alert">Alert</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>fullName</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>template</label>
+            <value>Email Template</value>
+        </column>
+        <column>
+            <label>protected</label>
+            <value>Protected Component</value>
+        </column>
+        <column>
+            <label>recipients</label>
+            <value>Recipients</value>
+        </column>
+        <column>
+            <label>ccEmails</label>
+            <value>ccEmails</value>
+        </column>
+        <column>
+            <label>senderType</label>
+            <value>Sender Type</value>
+        </column>
+        <column>
+            <label>senderAddress</label>
+            <value>Sender Address</value>
+        </column>
+    </table>
+    <table type="WorkflowFieldUpdate">
+        <tableHeader type="WorkFlow Field Update">Field Update</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>name</label>
+            <value>Name</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>Unique Name</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>targetObject</label>
+            <value>Object</value>
+        </column>
+        <column>
+            <label>field</label>
+            <value>Field to Update</value>
+        </column>
+        <column>
+            <label>reevaluateOnChange</label>
+            <value>Re-evaluate WorkFlow Rules after Field Change</value>
+        </column>
+        <column>
+            <label>protected</label>
+            <value>Protected Component</value>
+        </column>
+        <column>
+            <label>operation</label>
+            <value>Field to UpdateSorted Ascending</value>
+        </column>
+        <column>
+            <label>literalValue</label>
+            <value>Literal Value</value>
+        </column>
+        <column>
+            <label>lookupValue</label>
+            <value>Field Data Type</value>
+        </column>
+        <column>
+            <label>lookupValueType</label>
+            <value>Field Value</value>
+        </column>
+        <column>
+            <label>formula</label>
+            <value>Formula Value</value>
+        </column>
+        <column>
+            <label>notifyAssignee</label>
+            <value>Notify Assignee</value>
+        </column>
+    </table>
+    <table type="WorkflowOutboundMessage">
+    <tableHeader type="WorkFlow OutboundMessage">OutboundMessage</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>name</label>
+            <value>Name</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>Unique Name</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>endpointUrl</label>
+            <value>EndPoint URL</value>
+        </column>
+        <column>
+            <label>integrationUser</label>
+            <value>integrationUser</value>
+        </column>
+        <column>
+            <label>protected</label>
+            <value>Protected Component</value>
+        </column>
+        <column>
+            <label>includeSessionId</label>
+            <value>Send Session ID</value>
+        </column>
+        <column>
+            <label>useDeadLetterQueue</label>
+            <value>useDeadLetterQueue</value>
+        </column>
+        <column>
+            <label>fields</label>
+            <value>Fields to Send</value>
+        </column>
+        <column>
+            <label>apiVersion</label>
+            <value>API Version</value>
+        </column>
+    </table>
+    <table type="WorkflowFlowAction">
+        <tableHeader type="WorkFlow Actions">Actions</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>fullName</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>Flow</label>
+            <value>Flow</value>
+        </column>
+        <column>
+            <label>flowInputs</label>
+            <value>Flow Inputs</value>
+        </column>
+        <column>
+            <label>label</label>
+            <value>Label</value>
+        </column>
+        <column>
+            <label>language</label>
+            <value>Language</value>
+        </column>
+        <column>
+            <label>protected</label>
+            <value>Protected</value>
+        </column>
+    </table>
+    <table type="WorkflowKnowledgePublish">
+        <tableHeader type="WorkFlow Knowledge Publish">Knowledge Publish</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>fullName</value>
+        </column>
+        <column>
+            <label>actions</label>
+            <value>Actions</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>Description</value>
+        </column>
+        <column>
+            <label>label</label>
+            <value>Label</value>
+        </column>
+        <column>
+            <label>language</label>
+            <value>Language</value>
+        </column>
+        <column>
+            <label>protected</label>
+            <value>Protected</value>
+        </column>
+    </table>
+</MetaData>

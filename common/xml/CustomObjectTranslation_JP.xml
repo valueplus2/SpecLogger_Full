@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Metadata type="CustomObjectTranslation">
+   <table type="CustomObjectTranslation">
+     <tableHeader type="Custom Object Translation">カスタムオブジェクト翻訳</tableHeader>
+     <column>
+       <label>changed</label>
+       <value>変更あり</value>
+     </column>
+     <column>
+       <label>fullName</label>
+       <value>API参照名_翻訳言語</value>
+     </column>
+     <column>
+       <label>gender</label>
+       <value>言語</value>
+     </column>
+      <column>
+       <label>nameFieldLabel</label>
+       <value>レコード名</value>
+     </column>
+     <column>
+       <label>startsWith</label>
+       <value>母音で始まる場合はチェック</value>
+     </column>
+     <column>
+       <label>caseValues</label>
+       <value>文法</value>
+     </column>
+   </table>
+   
+   <table type="CustomFieldTranslation">
+     <tableHeader type="Custom Field Translation">カスタム項目翻訳</tableHeader>
+     <column>
+       <label>name</label>
+       <value>API参照名</value>
+     </column>
+     <column>
+       <label>caseValues</label>
+       <value>文法</value>
+     </column>
+     <column>
+       <label>gender</label>
+       <value>言語</value>
+     </column>
+     <column>
+       <label>help</label>
+       <value>ヘルプテキストの翻訳</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>項目表示ラベルの翻訳</value>
+     </column>
+     <column>
+       <label>errorMessage</label>
+       <value>エラーメッセージの翻訳</value>
+     </column>
+     <column>
+       <label>informationalMessage</label>
+       <value>情報メッセージの翻訳</value>
+     </column>
+    
+     <column>
+       <label>picklistValueReferenceName</label>
+       <value>選択リスト値</value>
+     </column>
+     <column>
+       <label>relationshipLabel</label>
+       <value>関連リストの表示ラベルの翻訳</value>
+     </column>
+     <column>
+       <label>startsWith</label>
+       <value>母音で始まる場合はチェック</value>
+     </column>
+   </table>
+   <table type="ObjectNameCaseValues">
+     <tableHeader type = "Object Name Case Value">オブジェクトの文法</tableHeader>
+     <column>
+       <label>referenceName</label>
+       <value>API参照名</value>
+     </column>
+     <column>
+       <label>article</label>
+       <value>定冠詞／不定冠詞</value>
+     </column>
+     <column>
+       <label>caseType</label>
+       <value>格</value>
+     </column>
+     <column>
+       <label>plural</label>
+       <value>複数形</value>
+     </column>
+     <column>
+       <label>possessive</label>
+       <value>所有格</value>
+     </column>
+     <column>
+       <label>value</label>
+       <value>表示ラベル</value>
+     </column>
+   </table>
+   <table type="LayutTranslation">
+     <tableHeader type="Layout Translation">レイアウトセッションの翻訳</tableHeader>
+     
+     <column>
+       <label>layout</label>
+       <value>レイアウト名</value>
+     </column>
+     <column>
+       <label>layoutType</label>
+       <value>レイアウトタイプ</value>
+     </column>
+     <column>
+       <label>sections</label>
+       <value>セッション名</value>
+     </column>
+   </table>
+   <table type="PicklistValueTranslation">
+      <tableHeader type="Picklist Value Translation">選択リスト値の翻訳</tableHeader>
+      <column>
+        <label>APIName</label>
+        <value>項目API参照名</value>
+      </column>      
+      <column>
+        <label>referenceName</label>
+        <value>翻訳言語API参照名</value>
+      </column>
+      <column>
+        <label>masterLabel</label>
+        <value>マスタ選択リスト値の表示ラベル</value>
+      </column>
+      <column>
+        <label>translation</label>
+        <value>選択リスト値の表示ラベルの翻訳</value>
+      </column>
+   </table> 
+   <table type="QuickActionTranslation">
+     <tableHeader type="Quick Action Translation">アクションの翻訳</tableHeader>
+    
+     <column>
+       <label>name</label>
+       <value>アクション</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>表示ラベル</value>
+     </column>
+   </table>
+   <table type="RecordTypeTranslation">
+     <tableHeader type="Record Type Translation">レコードタイプの翻訳</tableHeader>
+     
+     <column>
+       <label>name</label>
+       <value>レコードタイプ</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>表示ラベル</value>
+     </column>
+   </table>
+   <table type="SharingReasonTranslation">
+     <tableHeader type="Sharing Reason Translation">Apex共有の理由の翻訳</tableHeader>
+     
+     <column>
+       <label>name</label>
+       <value>Apex共有の理由</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>表示ラベル</value>
+     </column>
+   </table>
+   <table type="ValidationRuleTranslation">
+     <tableHeader type="Validation Rule Translation">入力エラーメッセージの翻訳</tableHeader>
+     
+     <column>
+       <label>name</label>
+       <value>入力規則</value>
+     </column>
+     <column>
+       <label>errorMessage</label>
+       <value>エラーメッセージ</value>
+     </column>
+   </table>
+   <table type="WebLinkTraslation">
+     <tableHeader type="Web Link Translation">ボタンとリンクの表示ラベルの翻訳</tableHeader>
+     
+     <column>
+       <label>name</label>
+       <value>Webタブ</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>表示ラベル</value>
+     </column>   
+   </table>
+   <table type="WorkflowTaskTranslation">
+     <tableHeader type="Workflow Task Translation">ワークフローToDoの翻訳</tableHeader>
+    
+     <column>
+       <label>name</label>
+       <value>ワークフローToDo</value>
+     </column>
+     <column>
+       <label>description</label>
+       <value>コメント</value>
+     </column>
+     <column>
+       <label>subject</label>
+       <value>件名</value>
+     </column>
+   </table>
+</Metadata>

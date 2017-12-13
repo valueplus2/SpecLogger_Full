@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="Profile">
+	<table type="Profile">
+		<tableHeader type="Profile">简档</tableHeader>
+		<column>
+			<label>Change</label>
+			<value>是否改变</value>
+		</column>
+		<column>
+			<label>fullName</label>
+			<value>名称</value>
+		</column>
+		<column>
+			<label>userLicense</label>
+			<value>用户许可证</value>
+		</column>
+		<column>
+			<label>custom</label>
+			<value>自定义简档</value>
+		</column>
+		<column>
+			<label>description</label>
+			<value>描述</value>
+		</column>
+	</table>
+	<table type="ProfileLayoutAssignments">
+		<tableHeader type="ProfileLayoutAssignments">页面布局</tableHeader>
+		<column>
+			<label>recordType</label>
+			<value>类型</value>
+		</column>
+		<column>
+			<label>layout</label>
+			<value>名称</value>
+		</column>
+	</table>
+	<table type="ProfileFieldLevelSecurity">
+		<tableHeader type="ProfileFieldLevelSecurity">字段级安全性</tableHeader>
+		<column>
+			<label>fieldname</label>
+			<value>字段名</value>
+		</column>
+<!-- 		<column> -->
+<!-- 			<label>hidden</label> -->
+<!-- 			<value>可见</value> -->
+<!-- 		</column> -->
+		<column>
+			<label>readable</label>
+			<value>只读</value>
+		</column>
+		<column>
+			<label>editable</label>
+			<value>修改</value>
+		</column>
+	</table>
+	<table type="ProfileApplicationVisibility">
+		<tableHeader type="ProfileApplicationVisibility">应用的可见性</tableHeader>
+		<column>
+			<label>application</label>
+			<value>应用名称</value>
+		</column>
+		<column>
+			<label>visible</label>
+			<value>可见</value>
+		</column>
+		<column>
+			<label>default</label>
+			<value>默认</value>
+		</column>
+	</table>
+	<table type="ProfileTabVisibility">
+		<tableHeader type="ProfileTabVisibility">选项卡的可见性</tableHeader>
+		<column>
+			<label>tab</label>
+			<value>选项卡名称</value>
+		</column>
+		<column>
+			<label>visibility</label>
+			<value>可见</value>
+		</column>
+	</table>
+	<table type="ProfileRecordTypeVisibility">
+		<tableHeader type="ProfileRecordTypeVisibility">记录类型的可见性</tableHeader>
+		<column>
+			<label>recordType</label>
+			<value>类型</value>
+		</column>
+		<column>
+			<label>visible</label>
+			<value>可见</value>
+		</column>
+		<column>
+			<label>default</label>
+			<value>默认</value>
+		</column>
+		<column>
+			<label>personAccountDefault</label>
+			<value>个人帐户的默认</value>
+		</column>
+	</table>
+	<table type="ProfileUserPermission">
+		<tableHeader type="ProfileUserPermission">用户权限</tableHeader>
+		<column>
+			<label>name</label>
+			<value>权限名称</value>
+		</column>
+		<column>
+			<label>enabled</label>
+			<value>是否拥有权限</value>
+		</column>
+	</table>
+	<table type="ProfileObjectPermissions">
+		<tableHeader type="ProfileObjectPermissions">对象权限</tableHeader>
+		<column>
+			<label>object</label>
+			<value>对象名称</value>
+		</column>
+		<column>
+			<label>allowRead</label>
+			<value>读取</value>
+		</column>
+		<column>
+			<label>allowCreate</label>
+			<value>创建</value>
+		</column>
+		<column>
+			<label>allowEdit</label>
+			<value>编辑</value>
+		</column>
+		<column>
+			<label>allowDelete</label>
+			<value>删除</value>
+		</column>
+		<column>
+			<label>viewAllRecords</label>
+			<value>查看全部</value>
+		</column>
+		<column>
+			<label>modifyAllRecords</label>
+			<value>修改全部</value>
+		</column>
+	</table>
+	<table type="ProfileCustomPermissions">
+		<tableHeader type="ProfileCustomPermissions">自定义权限</tableHeader>
+		<column>
+			<label>name</label>
+			<value>自定义权限名称</value>
+		</column>
+		<column>
+			<label>是否启用</label>
+			<value></value>
+		</column>
+	</table>
+	<table type="ProfileLoginHours">
+		<tableHeader type="ProfileLoginHours">登录时间</tableHeader>
+		<column>
+			<label>weekdayStart</label>
+			<value>Weekday</value>
+		</column>
+		<column>
+			<label>weekdayEnd</label>
+			<value>Period</value>
+		</column>
+	</table>
+	<table type="ProfileLoginIpRange">
+		<tableHeader type="ProfileLoginIpRange">登录IP范围</tableHeader>
+		<column>
+			<label>startAddress</label>
+			<value>开始IP地址</value>
+		</column>
+		<column>
+			<label>endAddress</label>
+			<value>结束IP地址</value>
+		</column>
+		<column>
+			<label>description</label>
+			<value>描述</value>
+		</column>
+	</table>
+	<table type="ProfileApexClassAccess">
+		<tableHeader type="ProfileApexClassAccess">已启用 Apex类访问权限</tableHeader>
+		<column>
+			<label>apexClass</label>
+			<value>Apex类名称</value>
+		</column>
+	</table>
+	<table type="ProfileApexPageAccess">
+		<tableHeader type="ProfileApexPageAccess">已启用的 Visualforce页面访问
+		</tableHeader>
+		<column>
+			<label>apexPage</label>
+			<value>Visualforce页面的名称</value>
+		</column>
+	</table>
+	<table type="ProfileExternalDataSourceAccess">
+		<tableHeader type="ProfileExternalDataSourceAccess">已启用外部数据源
+		</tableHeader>
+		<column>
+			<label>externalDataSource</label>
+			<value>外部数据源名称</value>
+		</column>
+	</table>
+</MetaData>

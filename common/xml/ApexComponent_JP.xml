@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="ApexComponent">
+	<table type="ApexComponent">
+        <tableHeader type="Apex Component">コンポーネント</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>変更あり</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>名前</value>
+        </column>
+        <column>
+            <label>label</label>
+            <value>表示ラベル</value>
+        </column>
+        <column>
+            <label>NamespacePrefix</label>
+            <value>名前空間プレフィックス</value>
+        </column>
+        <column>
+            <label>apiVersion</label>
+            <value>APIバージョン</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>説明</value>
+        </column>
+        <column>
+            <label>CreatedBy</label>
+            <value>作成者</value>
+        </column>
+        <column>
+            <label>CreatedDate</label>
+            <value>作成日</value>
+        </column>
+        <column>
+            <label>LastModifiedBy</label>
+            <value>最終更新者</value>
+        </column>
+        <column>
+            <label>LastModifiedDate</label>
+            <value>最終更新日</value>
+        </column>
+    </table>
+    <table type="PackageVersion">
+        <tableHeader type="Package Version">パッケージのバージョン</tableHeader>
+        <column>
+            <label>namespace</label>
+            <value>名前空間</value>
+        </column>
+        <column>
+            <label>majorNumber</label>
+            <value>メジャー番号</value>
+        </column>
+        <column>
+            <label>minorNumber</label>
+            <value>マイナー番号</value>
+        </column>
+    </table>
+</MetaData>

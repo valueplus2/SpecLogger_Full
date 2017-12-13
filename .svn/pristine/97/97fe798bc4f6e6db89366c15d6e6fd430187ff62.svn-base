@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="Settings">
+    <table type="accoutsetting">
+        <tableHeader type="AccountSettings">取引先設定</tableHeader>
+        <column>
+            <label>showViewHierarchyLink</label>
+            <value>[階層の表示] リンクを表示</value>
+        </column>
+        <column>
+            <label>enableAccountTeams</label>
+            <value>取引先チームの有効化</value>
+        </column>
+        <column>
+            <label>enableAccountOwnerReport</label>
+            <value>すべてのユーザが取引先所有者レポートを使用する</value>
+        </column>
+    </table>
+    
+     <table type="activitiessettings">
+    	<tableHeader type="ActivitiesSettings">活動設定と、カレンダー用のユーザインターフェース設定</tableHeader>
+    	<column>
+            <label>enableGroupTasks</label>
+            <value>グループ ToDo を有効化</value>
+        </column>
+        <column>
+            <label>enableSidebarCalendarShortcut</label>
+            <value>サイドバーカレンダーショートカットを有効化</value>
+        </column>
+        <column>
+            <label>enableRecurringEvents</label>
+            <value>定期的な行動の作成の有効化</value>
+        </column>
+        <column>
+            <label>enableRecurringTasks</label>
+            <value>定期的な ToDo の作成の有効化</value>
+        </column>
+        <column>
+            <label>enableActivityReminders</label>
+            <value>活動アラームの有効化</value>
+        </column>
+         <column>
+            <label>enableEmailTracking</label>
+            <value>メール追跡を有効にする</value>
+        </column>
+         <column>
+            <label>showEventDetailsMultiUserCalendar</label>
+            <value>マルチユーザカレンダービューに行動の詳細を表示</value>
+        </column>
+         <column>
+            <label>enableMultidayEvents</label>
+            <value>複数日の行動の有効化</value>
+        </column>
+         <column>
+            <label>showCustomLogoMeetingRequests</label>
+            <value>ミーティングのお願いにカスタムロゴを表示</value>
+        </column>
+         <column>
+            <label>meetingRequestsLogo</label>
+            <value>ミーティングのお願いロゴ</value>
+        </column>
+         <column>
+            <label>allowUsersToRelateMultipleContactsToTasksAndEvents</label>
+            <value>ユーザが複数取引先責任者をToDoと行動に関連付けられるようにする</value>
+        </column>
+         <column>
+            <label>enableClickCreateEvents</label>
+            <value>カレンダービューでのクリック作成行動を有効化</value>
+        </column>
+         <column>
+            <label>enableDragAndDropScheduling boolean</label>
+            <value>カレンダービューでのドラッグアンドドロップ編集を有効化</value>
+        </column>
+         <column>
+            <label>enableListViewScheduling</label>
+            <value>リストビューでのドラッグアンドドロップスケジュール設定を有効化</value>
+        </column>
+         <column>
+            <label>showHomePageHoverLinksForEvents</label>
+            <value>ホームページの行動のフロート表示を有効化</value>
+        </column>
+         <column>
+            <label>showMyTasksHoverLinks</label>
+            <value>私の ToDo 一覧のリンクのフロート表示を有効化</value>
+        </column>
+        </table>
+        
+        
+         <table type="casesettings">
+    	<tableHeader type="CaseSettings">サポート設定</tableHeader>
+         <column>
+            <label>defaultCaseOwnerType</label>
+            <value>デフォルトのケース所有者種別</value>
+        </column>
+         <column>
+            <label>defaultCaseOwner</label>
+            <value>デフォルトのケース所有者</value>
+        </column>
+         <column>
+            <label>notifyDefaultCaseOwner</label>
+            <value>デフォルトのケース所有者に通知する</value>
+        </column>
+         <column>
+            <label>defaultCaseUser</label>
+            <value>自動ケース更新ユーザ</value>
+        </column>
+         <column>
+            <label>caseCreateNotificationTemplate</label>
+            <value>ケース作成時のテンプレート</value>
+        </column>
+         <column>
+            <label>caseAssignNotificationTemplate</label>
+            <value>ケース割り当て時のテンプレート	</value>
+        </column>
+         <column>
+            <label>caseCloseNotificationTemplate</label>
+            <value>ケースクローズ時のテンプレート</value>
+        </column>
+         <column>
+            <label>notifyContactOnCaseComment</label>
+            <value>取引先責任者へのケースコメント通知を有効化</value>
+        </column>
+         <column>
+            <label>caseCommentNotificationTemplate</label>
+            <value>ケースコメントのテンプレート</value>
+        </column>
+         <column>
+            <label>notifyOwnerOnCaseComment</label>
+            <value>ケース所有者に新規ケースコメントを通知する</value>
+        </column>
+         <column>
+            <label>enableEarlyEscalationRuleTriggers</label>
+            <value>アーリートリガの有効</value>
+        </column>
+         <column>
+            <label>enableSuggestedSolutions</label>
+            <value>推奨ソリューションを有効化</value>
+        </column>
+         <column>
+            <label>useSystemEmailAddress</label>
+            <value>ケース通知をシステムアドレスから送信</value>
+        </column>
+         <column>
+            <label>notifyOwnerOnCaseOwnerChange</label>
+            <value>ケース所有権の変更時にケース所有者に通知</value>
+        </column>
+         <column>
+            <label>closeCaseThroughStatusChange</label>
+            <value>クローズケースの状況項目を表示</value>
+        </column>
+         <column>
+            <label>enableCaseFeed</label>
+            <value>ケースフィード有効化</value>
+        </column>
+         <column>
+            <label>enableNewEmailDefaultTemplate</label>
+            <value>デフォルトメールテンプレートまたはメールアクションのデフォルトハンドラを有効化</value>
+        </column>
+        </table>
+        <table type="FeedItemSettings">
+        	<tableHeader type="FeedItemSettings">フィードアイテムの設定</tableHeader>
+        	<column>
+        		<label>characterLimit</label>
+        		<value>文字数制限</value>
+        	</column>
+        	<column>
+        		<label>collapseThread</label>
+        		<value>フィードアイテムを表示</value>
+        	</column>
+        	<column>
+        		<label>displayFormat</label>
+        		<value>表示フォーマット</value>
+        	</column>
+        	<column>
+        		<label>feedItemType</label>
+        		<value>フィードアイテムタイプ</value>
+        	</column>
+        </table>
+        <table type="emailTocasesettings">
+    	<tableHeader type="EmailToCaseSettings">メール-to-ケースの設定</tableHeader>
+         <column>
+            <label>enableEmailToCase</label>
+            <value>メール-to-ケースの有効化</value>
+        </column>
+         <column>
+            <label>notifyOwnerOnNewCaseEmail</label>
+            <value>ケース所有者に新規メールを通知する</value>
+        </column>
+         <column>
+            <label>enableHtmlEmail</label>
+            <value>HTML メールの有効化</value>
+        </column>
+         <column>
+            <label>enableThreadIDInSubject</label>
+            <value>メール件名にスレッド ID を挿入する</value>
+        </column>
+         <column>
+            <label>enableThreadIDInBody</label>
+            <value>メール内容にスレッド ID を挿入する</value>
+        </column>
+         <column>
+            <label>enableOnDemandEmailToCase</label>
+            <value>オンデマンドサービスの有効化</value>
+        </column>
+         <column>
+            <label>overEmailLimitAction</label>
+            <value>上限を超えたメールメッセージを受信した時のアクション</value>
+        </column>
+        <column>
+            <label>preQuoteSignature</label>
+            <value>メールスレッドの前にユーザの署名を配置</value>
+        </column>
+         <column>
+            <label>unauthorizedSenderAction</label>
+            <value>送信者が許可されていない時のアクション</value>
+        </column>
+        </table>
+        
+        <table type="emailtocaseroutingaddress">
+    	<tableHeader type="EmailToCaseRoutingAddress">ルーティングアドレス</tableHeader>
+         <column>
+            <label>addressType</label>
+            <value>アドレスタイプ</value>
+        </column>
+         <column>
+            <label>Source</label>
+            <value>ソース</value>
+        </column>
+         <column>
+            <label>routingName</label>
+            <value>ルーティング名</value>
+        </column>
+         <column>
+            <label>emailAddress</label>
+            <value>メールサービスアドレス</value>
+        </column>
+         <column>
+            <label>saveEmailHeaders</label>
+            <value>メールヘッダーの保存</value>
+        </column>
+         <column>
+            <label>authorizedSenders</label>
+            <value>許可する送信元	</value>
+        </column>
+         <column>
+            <label>createTask</label>
+            <value>メールからの ToDo の作成</value>
+        </column>
+         <column>
+            <label>taskStatus</label>
+            <value>ToDoの状況</value>
+        </column>
+        <column>
+            <label>caseOwnerType</label>
+            <value>デフォルトのケース所有者種類</value>
+        </column>
+        <column>
+            <label>caseOwner</label>
+            <value>デフォルトのケース所有者</value>
+        </column>
+        <column>
+            <label>casePriority</label>
+            <value>ケース優先度</value>
+        </column>
+        <column>
+            <label>caseOrigin</label>
+            <value>ケース発生源</value>
+        </column>
+        </table>
+        
+         <table type="webtocasesettings">
+    	<tableHeader type="WebToCaseSettings">Web-to-ケース設定</tableHeader>
+         <column>
+            <label>enableWebToCase</label>
+            <value>Web-to-ケースの有効化</value>
+        </column>
+         <column>
+            <label>caseOrigin</label>
+            <value>デフォルトのケース 発生源</value>
+        </column>
+         <column>
+            <label>defaultResponseTemplate</label>
+            <value>デフォルトのレスポンス用テンプレート</value>
+        </column>
+        </table>
+        
+          <table type="chatteranswerssettings">
+    	<tableHeader type="ChatterAnswersSettings">Chatterアンサーの設定</tableHeader>
+         <column>
+            <label>enableChatterAnswers</label>
+            <value>Chatterアンサーを有効化</value>
+        </column>
+         <column>
+            <label>showInPortals</label>
+            <value>Chatterアンサーをポータルに表示</value>
+        </column>
+         <column>
+            <label>enableRichTextEditor</label>
+            <value>リッチテキストエディタを有効化</value>
+        </column>
+        <column>
+            <label>enableReputation</label>
+            <value>評価を有効化</value>
+        </column>
+        <column>
+            <label>enableAnswerViaEmail</label>
+            <value>メールによる回答の投稿を許可する</value>
+        </column>
+        <column>
+            <label>enableFacebookSSO</label>
+            <value>Facebookのシングルサインオンを有効化</value>
+        </column>
+        <column>
+            <label>facebookAuthProvider</label>
+            <value>Facebook認証プロバイダ</value>
+        </column>
+        <column>
+            <label>emailFollowersOnBestAnswer</label>
+            <value>フォローする質問の最良の回答を選択する</value>
+        </column>
+        <column>
+            <label>emailFollowersOnReply</label>
+            <value>フォローする質問に返信する</value>
+        </column>
+        <column>
+            <label>emailOwnerOnPrivateReply</label>
+            <value>それらの質問に非公開返信を送信する (サポートデスク)</value>
+        </column>
+        <column>
+            <label>emailOwnerOnReply</label>
+            <value>所有する質問に返信する</value>
+        </column>
+        <column>
+            <label>enableInlinePublisher</label>
+            <value>検索/質問パブリッシャーをインラインで表示する</value>
+        </column>
+      </table>
+      
+          <table type="companysettings">
+    	<tableHeader type="CompanySettings">組織会計年度の設定</tableHeader>
+         <column>
+            <label>fiscalYearNameBasedOn</label>
+            <value>会計年度の表記</value>
+        </column>
+         <column>
+            <label>startMonth</label>
+            <value>会計年度期首月</value>
+        </column>
+        </table>
+        
+          <table type="contractsettings">
+    	<tableHeader type="ContractSettings">契約の設定</tableHeader>
+         <column>
+            <label>autoCalculateEndDate</label>
+            <value>契約終了日の自動計算</value>
+        </column>
+         <column>
+            <label>notifyOwnersOnContractExpiration</label>
+            <value>契約終了通知メールを取引先と契約所有者に送信する</value>
+        </column>
+        <column>
+            <label>enableContractHistoryTracking</label>
+            <value>すべての状況の履歴管理</value>
+        </column>
+        <column>
+            <label>autoExpireContracts</label>
+            <value>期限切れ契約</value>
+        </column>
+        <column>
+            <label>autoExpirationDelay</label>
+            <value>自動期限延長</value>
+        </column>
+        <column>
+            <label>autoExpirationRecipient</label>
+            <value>自動期限受信</value>
+        </column>
+        </table>
+        
+        
+          <table type="entitlementsettings">
+    	<tableHeader type="EntitlementSettings">エンタイトルメント管理の設定</tableHeader>
+         <column>
+            <label>enableEntitlements</label>
+            <value>エンタイトルメント管理の有効化</value>
+        </column>
+         <column>
+            <label>enableEntitlementVersioning</label>
+            <value>エンタイトルメントのバージョン管理の有効化</value>
+        </column>
+        <column>
+            <label>entitlementLookupLimitedToActiveStatus</label>
+            <value>エンタイトルメントルックアップ：有効な状況</value>
+        </column>
+        <column>
+            <label>entitlementLookupLimitedToSameAccount</label>
+            <value>エンタイトルメントルックアップ：ケースに同じ取引先がある</value>
+        </column>
+        <column>
+            <label>entitlementLookupLimitedToSameAsset</label>
+            <value>エンタイトルメントルックアップ：ケースに同じ納入商品がある</value>
+        </column>
+        <column>
+            <label>entitlementLookupLimitedToSameContact</label>
+            <value>エンタイトルメントルックアップ：ケースに同じ取引先責任者がいる</value>
+        </column>
+        <column>
+            <label>assetLookupLimitedToActiveEntitlementsOnAccount</label>
+            <value>納入商品ルックアップ：ケースの取引先に有効なエンタイトルメントがある</value>
+        </column>
+        <column>
+            <label>assetLookupLimitedToActiveEntitlementsOnContact</label>
+            <value>納入商品ルックアップ：ケースの取引先責任者に有効なエンタイトルメントがある</value>
+        </column>
+        <column>
+            <label>assetLookupLimitedToSameAccount</label>
+            <value>納入商品ルックアップ：ケースに同じ取引先がある</value>
+        </column>
+        <column>
+            <label>assetLookupLimitedToSameContact</label>
+            <value>納入商品ルックアップ：ケースに同じ取引先責任者がいる</value>
+        </column>
+        </table>
+        
+          <table type="forecastingsettings">
+    	<tableHeader type="ForecastingSettings">売上予測</tableHeader>
+         <column>
+            <label>enableForecasts</label>
+            <value>売上予測を有効化</value>
+        </column>
+         <column>
+            <label>displayCurrency</label>
+            <value>デフォルト通貨</value>
+        </column>
+        </table>
+        
+         <table type="forecastingtypesettings">
+    	<tableHeader type="ForecastingTypeSettings">売上予測種別</tableHeader>
+         <column>
+            <label>name</label>
+            <value>売上予測種別名</value>
+        </column>
+         <column>
+            <label>active</label>
+            <value>有効</value>
+        </column>
+         <column>
+            <label>periodType</label>
+            <value>期間</value>
+        </column>
+        <column>
+            <label>beginning</label>
+            <value>開始日</value>
+        </column>
+        <column>
+            <label>displaying</label>
+            <value>表示</value>
+        </column>
+        <column>
+            <label>enableAdjustments</label>
+            <value>調整を有効化</value>
+        </column>
+        <column>
+            <label>showQuotas</label>
+            <value>目標を表示</value>
+        </column>
+          <column>
+            <label>fields</label>
+            <value>表示する項目</value>
+        </column>
+        </table>
+           <table type="chattermobilesettings">
+    	<tableHeader type="ChatterMobileSettings">chatterモバイル通知の設定</tableHeader>
+         <column>
+            <label>enablePushNotifications</label>
+            <value>アプリケーション内通知を有効化</value>
+        </column>
+        </table>
+           <table type="SFDCmobilesettings">
+    	<tableHeader type="SFDCMobileSettings">Salesforce Classicの設定</tableHeader>
+         <column>
+            <label>enableMobileLite</label>
+            <value>Salesforce Classic Lite の有効化</value>
+        </column>
+         <column>
+            <label>enableUserToDeviceLinking</label>
+            <value>モバイルデバイスにユーザを恒久的にリンクする</value>
+        </column>
+        </table>
+           <table type="dashboardmobilesettings">
+    	<tableHeader type="DashboardMobileSettings">モバイルダッシュボード</tableHeader>
+         <column>
+            <label>enableDashboardIPadApp</label>
+            <value>すべてのユーザでモバイルダッシュボード iPad アプリケーションを有効化</value>
+        </column>
+        </table>
+        
+        <table type="liveagentsettings">
+    	<tableHeader type="LiveAgentSettings">Live Agent の設定</tableHeader>
+         <column>
+            <label>enableLiveAgent</label>
+            <value>Live Agent の有効化</value>
+        </column>
+        </table>
+        <table type="Countries">
+		<tableHeader type="Countries">国情報</tableHeader>
+		<column>
+			<label>active</label>
+			<value>有効</value>
+		</column>
+		<column>
+			<label>visible</label>
+			<value>参照可能</value>
+		</column>
+		<column>
+			<label>Label</label>
+			<value>国名</value>
+		</column>
+		<column>
+			<label>isoCode</label>
+			<value>国コード</value>
+		</column>
+		<column>
+			<label>integrationValue</label>
+			<value>インテグレーション値</value>
+		</column>
+		<column>
+			<label>orgDefault</label>
+			<value>デフォルトの国</value>
+		</column>
+		<column>
+			<label>standard</label>
+			<value>標準</value>
+		</column>
+	</table>
+	<table type="states">
+		<tableHeader type="states">州情報</tableHeader>
+		<column>
+			<label>Country Label</label>
+			<value>国</value>
+		</column>
+		<column>
+			<label>Label</label>
+			<value>州名</value>
+		</column>
+		<column>
+			<label>isoCode</label>
+			<value>州コード</value>
+		</column>
+		<column>
+			<label>integrationValue</label>
+			<value>インテグレーション値</value>
+		</column>
+		<column>
+			<label>active</label>
+			<value>有効</value>
+		</column>
+		<column>
+			<label>visible</label>
+			<value>参照可能</value>
+		</column>
+		<column>
+			<label>standard</label>
+			<value>標準</value>
+		</column>
+	</table>
+	<table type="BusinessHoursEntry">
+		<tableHeader type="BusinessHoursEntry">組織の営業時間</tableHeader>
+		<column>
+			<label>name</label>
+			<value>営業時間名</value>
+		</column>
+		<column>
+			<label>default</label>
+			<value>デフォルトとして使用する</value>
+		</column>
+		<column>
+			<label>active</label>
+			<value>有効</value>
+		</column>
+		<column>
+			<label>timeZoneId</label>
+			<value>タイムゾーン</value>
+		</column>
+		<column>
+			<label>Weekday</label>
+			<value>曜日</value>
+		</column>
+		<column>
+			<label>Period</label>
+			<value>営業時間</value>
+		</column>
+	</table>
+	<table type="Holidays">
+		<tableHeader type="Holidays">休日</tableHeader>
+		<column>
+			<label>name</label>
+			<value>休日名</value>
+		</column>
+		<column>
+			<label>description</label>
+			<value>説明</value>
+		</column>
+		<column>
+			<label>activityDate</label>
+			<value>日付</value>
+		</column>
+		<column>
+			<label>startTime</label>
+			<value>開始時刻</value>
+		</column>
+		<column>
+			<label>endTime</label>
+			<value>終了時刻</value>
+		</column>
+		<column>
+			<label>All Day</label>
+			<value>終日</value>
+		</column>
+		<column>
+			<label>isRecurring</label>
+			<value>繰り返しの休日</value>
+		</column>
+		<column>
+			<label>recurrenceType</label>
+			<value>休日の繰り返し種別</value>
+		</column>
+		<column>
+			<label>recurrenceInterval</label>
+			<value>休日を繰り返す間隔</value>
+		</column>
+		<column>
+			<label>recurrenceInstance</label>
+			<value>休日を繰り返す週</value>
+		</column>
+		<column>
+			<label>recurrenceDayOfWeek</label>
+			<value>休日を繰り返す曜日</value>
+		</column>
+		<column>
+			<label>recurrenceDayOfMonth</label>
+			<value>休日を繰り返す日付</value>
+		</column>
+		<column>
+			<label>recurrenceMonthOfYear</label>
+			<value>休日を繰り返す月</value>
+		</column>
+	</table>
+	<table type="IdeasSettings">
+		<tableHeader type="IdeasSettings">アイデアの設定</tableHeader>
+		<column>
+			<label>enableIdeas</label>
+			<value>アイデアの有効化</value>
+		</column>
+		<column>
+			<label>enableIdeasReputation</label>
+			<value>評価を有効化</value>
+		</column>
+		<column>
+			<label>enableChatterProfile</label>
+			<value>Chatter ユーザプロファイルを利用</value>
+		</column>
+		<column>
+			<label>ideasProfilePage</label>
+			<value>アイデアユーザプロファイル</value>
+		</column>
+		<column>
+			<label>halfLife</label>
+			<value>アイデアの半減期 (日数)</value>
+		</column>
+		<column>
+			<label>enableIdeaThemes</label>
+			<value>アイデアのテーマを有効化</value>
+		</column>
+	</table>
+	<table type="KnowledgeSettings">
+		<tableHeader type="KnowledgeSettings">ナレッジの設定</tableHeader>
+		<column>
+			<label>enableKnowledge</label>
+			<value>ナレッジの有効化</value>
+		</column>
+		<column>
+			<label>enableCreateEditOnArticlesTab</label>
+			<value>タブからの記事の作成と編集をユーザに許可する</value>
+		</column>
+		<column>
+			<label>enableChatterQuestionKBDeflection</label>
+			<value>Chatterを介したケースのデフレクションの追跡を有効化</value>
+		</column>
+		<column>
+			<label>enableExternalMediaContent</label>
+			<value>標準エディタでユーザが外部マルチメディアコンテンツを HTML に追加することを許可します。</value>
+		</column>
+		<column>
+			<label>showArticleSummariesInternalApp</label>
+			<value>記事の概要が内部アプリケーションに表示されます</value>
+		</column>
+		<column>
+			<label>showArticleSummariesCustomerPortal</label>
+			<value>記事の概要が顧客に表示されます</value>
+		</column>
+		<column>
+			<label>showArticleSummariesPartnerPortal</label>
+			<value>記事の概要がパートナーに表示されます</value>
+		</column>
+		<column>
+			<label>showValidationStatusField</label>
+			<value>検証状況項目を有効化</value>
+		</column>
+		<column>
+			<label>defaultLanguage</label>
+			<value>知識ベースのデフォルト言語</value>
+		</column>
+	</table>
+	<table type="KnowledgeLanguageSettings">
+		<tableHeader type="KnowledgeLanguageSettings">ナレッジ言語の設定</tableHeader>
+		<column>
+			<label>name</label>
+			<value>言語</value>
+		</column>
+		<column>
+			<label>active</label>
+			<value>有効</value>
+		</column>
+		<column>
+			<label>defaultAssigneeType</label>
+			<value>デフォルト任命先のタイプ</value>
+		</column>
+		<column>
+			<label>defaultAssignee</label>
+			<value>デフォルトの任命先</value>
+		</column>
+		<column>
+			<label>defaultReviewerType</label>
+			<value>デフォルト校閲者のタイプ</value>
+		</column>
+		<column>
+			<label>defaultReviewer</label>
+			<value>デフォルトの校閲者</value>
+		</column>
+	</table>
+	<table type="KnowledgeCaseSettings">
+		<tableHeader type="KnowledgeCaseSettings">ナレッジケースの設定</tableHeader>
+		<column>
+			<label>enableArticleCreation</label>
+			<value>ケースからの記事の作成をユーザに許可する</value>
+		</column>
+		<column>
+			<label>editor</label>
+			<value>エディタの種類</value>
+		</column>
+		<column>
+			<label>defaultContributionArticleType</label>
+			<value>デフォルトの記事タイプ</value>
+		</column>
+		<column>
+			<label>assignTo</label>
+			<value>新規記事の割り当て先</value>
+		</column>
+		<column>
+			<label>customizationClass</label>
+			<value>APEX カスタマイズを使用</value>
+		</column>
+		<column>
+			<label>useProfileForPDFCreation</label>
+			<value>プロファイルを使用してお客様が利用可能なケースに関する記事の PDF を作成</value>
+		</column>
+		<column>
+			<label>articlePDFCreationProfile</label>
+			<value>プロファイル</value>
+		</column>
+		<column>
+			<label>enableArticlePublicSharingSites</label>
+			<value>公開 URL を使用して記事の共有をユーザに許可する</value>
+		</column>
+		<column>
+			<label>articlePublicSharingSites</label>
+			<value>選択したサイト</value>
+		</column>
+	</table>
+	<table type="KnowledgeAnswerSettings">
+		<tableHeader type="KnowledgeAnswerSettings">ナレッジアンサーの設定</tableHeader>
+		<column>
+			<label>enableArticleCreation</label>
+			<value>返信からの記事の作成をユーザに許可する</value>
+		</column>
+		<column>
+			<label>defaultArticleType</label>
+			<value>デフォルトの記事タイプ</value>
+		</column>
+		<column>
+			<label>assignTo</label>
+			<value>新規記事の割り当て先</value>
+		</column>
+	</table>
+	<table type="NetworkAccess">
+		<tableHeader type="NetworkAccess">信頼済み IP 範囲</tableHeader>
+		<column>
+			<label>IpRange start</label>
+			<value>開始 IP アドレス</value>
+		</column>
+		<column>
+			<label>IpRange end</label>
+			<value>終了 IP アドレス</value>
+		</column>
+	</table>
+	<table type="PasswordPolicies">
+		<tableHeader type="PasswordPolicies">パスワードポリシー</tableHeader>
+		<column>
+			<label>expiration</label>
+			<value>パスワードの有効期間</value>
+		</column>
+		<column>
+			<label>historyRestriction</label>
+			<value>過去のパスワードの利用制限回数</value>
+		</column>
+		<column>
+			<label>minPasswordLength</label>
+			<value>最小パスワード長</value>
+		</column>
+		<column>
+			<label>complexity</label>
+			<value>パスワード文字列の制限</value>
+		</column>
+		<column>
+			<label>questionRestriction</label>
+			<value>パスワード質問の制限</value>
+		</column>
+		<column>
+			<label>maxLoginAttempts</label>
+			<value>ログイン失敗によりロックするまでの回数</value>
+		</column>
+		<column>
+			<label>lockoutInterval</label>
+			<value>ロックアウトの有効期間</value>
+		</column>
+		<column>
+			<label>obscureSecretAnswer</label>
+			<value>パスワードのリセットの秘密の回答を非表示にする</value>
+		</column>
+		<column>
+			<label>passwordAssistanceMessage</label>
+			<value>パスワードを忘れた場合のメッセージ</value>
+		</column>
+		<column>
+			<label>passwordAssistanceURL</label>
+			<value>パスワードを忘れた場合のヘルプリンク</value>
+		</column>
+		<column>
+			<label>apiOnlyUserHomePageURL</label>
+			<value>API 限定ユーザの代替ホームページ</value>
+		</column>
+	</table>
+	<table type="SessionSettings">
+		<tableHeader type="SessionSettings">セッションの設定</tableHeader>
+		<column>
+			<label>sessionTimeout</label>
+			<value>セッションタイムアウト値</value>
+		</column>
+		<!--<column>
+			<label>logoutURL</label>
+			<value>ログアウト URL</value>
+		</column>
+		<column>
+			<label>lockSessionsToDomain</label>
+			<value>セッションを最初に使用したドメインにセッションをロックする</value>
+		</column>
+		<column>
+			<label>enforceIpRangesEveryRequest</label>
+			<value>すべての要求でログイン IP アドレスの制限を適用</value>
+		</column>
+		<column>
+			<label>enableClickjackNonsetupUserHeaderless</label>
+			<value>ヘッダーが無効化された Visualforce ページのクリックジャック保護を有効化</value>
+		</column>  -->
+		<column>
+			<label>disableTimeoutWarning</label>
+			<value>セッションタイムアウト時の警告ポップアップを無効にする</value>
+		</column>
+		<column>
+			<label>lockSessionsToIp</label>
+			<value>ログイン時の IP アドレスとセッションをロックする</value>
+		</column>
+		<column>
+			<label>forceRelogin</label>
+			<value>ユーザとしてログインしてから再ログインを強制する</value>
+		</column>
+		<column>
+			<label>enableCacheAndAutocomplete</label>
+			<value>ログインページでキャッシングとオートコンプリート機能を有効にする</value>
+		</column>
+		<column>
+			<label>enableSMSIdentity</label>
+			<value>SMS による ID 確認を有効にする</value>
+		</column>
+		<column>
+			<label>enableClickjackSetup</label>
+			<value>設定ページのクリックジャック保護を有効化</value>
+		</column>
+		<column>
+			<label>enableClickjackNonsetupUser</label>
+			<value>標準ヘッダーがある Visualforce ページのクリックジャック保護を有効化</value>
+		</column>
+		<column>
+			<label>enableClickjackNonsetupSFDC</label>
+			<value>設定以外の Salesforce ページのクリックジャック保護を有効化</value>
+		</column>
+		<column>
+			<label>enableCSRFOnGet</label>
+			<value>設定ページ以外の GET 要求の CSRF 保護を有効化</value>
+		</column>
+		<column>
+			<label>enableCSRFOnPost</label>
+			<value>設定ページ以外の POST 要求の CSRF 保護を有効化</value>
+		</column>
+		<column>
+			<label>enablePostForSession</label>
+			<value>クロスドメインセッションで POST 要求を使用</value>
+		</column>
+		<column>
+			<label>forceLogoutOnSessionTimeout</label>
+			<value>セッションタイムアウト時に強制的にログアウト</value>
+		</column>
+	</table>
+	<table type="QuoteSettings">
+		<tableHeader type="QuoteSettings">見積設定</tableHeader>
+		<column>
+			<label>enableQuote</label>
+			<value>見積の有効化</value>
+		</column>
+	</table>
+	<table type="productSettings">
+		<tableHeader type="ProductSettings">商品設定</tableHeader>
+		<column>
+			<label>enableCascadeActivateToRelatedPrices</label>
+			<value>商品レコード上の有効フラグを変更した際に、関連する価格の有効フラグも自動更新する</value>
+		</column>
+		<column>
+			<label>enableQuantitySchedule</label>
+			<value>数量によるスケジュールの有効化</value>
+		</column>
+		<column>
+			<label>enableRevenueSchedule</label>
+			<value>収益によるスケジュールの有効化</value>
+		</column>
+	</table>
+	<table type="OrderSettings">
+		<tableHeader type="OrderSettings">注文の設定</tableHeader>
+		<column>
+			<label>enableOrders</label>
+			<value>注文を有効化</value>
+		</column>
+		<column>
+			<label>enableReductionOrders</label>
+			<value>削減注文を有効化</value>
+		</column>
+		<column>
+			<label>enableNegativeQuantity</label>
+			<value>負の数量を有効化</value>
+		</column>
+	</table>
+	<table type="OpportunitySettings">
+		<tableHeader type="OpportunitySettings">OpportunitySettings</tableHeader>
+		<column>
+			<label>autoActivateNewReminders</label>
+			<value>直属の部下を持つユーザに対するリマインダーを自動的に有効にする</value>
+		</column>
+		<column>
+			<label>enableUpdateReminders</label>
+			<value>組織にアップデートリマインダーを有効にする</value>
+		</column>
+		<column>
+			<label>promptToAddProducts</label>
+			<value>商品を商談に追加するようユーザに促す</value>
+		</column>
+		<column>
+			<label>enableOpportunityTeam</label>
+			<value>チームセリング設定の有効化</value>
+		</column>
+		<column>
+			<label>enableFindSimilarOpportunities</label>
+			<value>類似商談の有効化</value>
+		</column>
+		<column>
+			<label>similarOpportunitiesMatchFields</label>
+			<value>一致条件</value>
+		</column>
+		<column>
+			<label>similarOpportunitiesDisplayColumns</label>
+			<value>類似商談の結果列</value>
+		</column>
+	</table>
+</MetaData>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Metadata type="ApexTrigger">
+  <table type="ApexTrgger">
+    <tableHeader type="Apex Trigger">Apex トリガ</tableHeader>
+    <column>
+      <label>changed</label>
+      <value>変更あり</value>
+    </column>
+    <column>
+      <label>fullName</label>
+      <value>名前</value>
+    </column>
+    <column>
+      <label>NamespacePrefix</label>
+      <value>名前空間プレフィックス</value>
+    </column>
+    <column>
+      <label>TableEnumOrId</label>
+      <value>オブジェクト名</value>
+    </column>
+    <column>
+      <label>LengthWithoutComments</label>
+      <value>サイズ（コメント除き）</value>
+    </column>
+    <column>
+      <label>apiVersion</label>
+      <value>APIバージョン</value>
+    </column>
+    <column>
+      <label>status</label>
+      <value>状況</value>
+    </column>
+    <column>
+      <label>UsageBeforeInsert</label>
+      <value>Before Insertトリガ</value>
+    </column>
+    <column>
+      <label>UsageBeforeDelete</label>
+      <value>Before Deleteトリガ</value>
+    </column>
+    <column>
+      <label>UsageBeforeUpdate</label>
+      <value>Before Updateトリガ</value>
+    </column>
+    <column>
+      <label>UsageAfterInsert</label>
+      <value>After Insertトリガ</value>
+    </column>
+    <column>
+      <label>UsageAfterDelete</label>
+      <value>After Deleteトリガ</value>
+    </column>
+    <column>
+      <label>UsageAfterUpdate</label>
+      <value>After Updateトリガ</value>
+    </column>
+    <column>
+      <label>UsageAfterUndelete</label>
+      <value>After Undeleteトリガ</value>
+    </column>
+    <column>
+        <label>LastModifiedDate</label>
+        <value>最終更新日</value>
+    </column>    
+  </table>
+  <table type="PackageVersion"> 
+    <tableHeader type="Package Version">Package Version</tableHeader>
+    <column>
+      <label>namespace</label>
+      <value>名前空間</value>
+    </column>
+    <column>
+      <label>majorNumber</label>
+      <value>メジャー番号</value>
+    </column>
+    <column>
+      <label>minorNumber</label>
+      <value>マイナー番号</value>
+    </column>
+  </table>
+</Metadata>

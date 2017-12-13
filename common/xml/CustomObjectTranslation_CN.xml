@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Metadata type="CustomObjectTranslation">
+   <table type="CustomObjectTranslation">
+     <tableHeader type="Custom Object Translation">Custom Object Translation</tableHeader>
+     <column>
+       <label>changed</label>
+       <value>是否改变</value>
+     </column>
+     <column>
+       <label>fullName</label>
+       <value>全称</value>
+     </column>
+     <column>
+       <label>gender</label>
+       <value>种类</value>
+     </column>
+      <column>
+       <label>nameFieldLabel</label>
+       <value>名称字段标签</value>
+     </column>
+     <column>
+       <label>startsWith</label>
+       <value>开头</value>
+     </column>
+     <column>
+       <label>caseValues</label>
+       <value>事例取值</value>
+     </column>
+   </table>
+   
+   <table type="CustomFieldTranslation">
+     <tableHeader type="Custom Field Translation">Custom Field Translation</tableHeader>
+     <column>
+       <label>name</label>
+       <value>名称</value>
+     </column>
+     <column>
+       <label>caseValues</label>
+       <value>事例取值</value>
+     </column>
+     <column>
+       <label>gender</label>
+       <value>种类</value>
+     </column>
+     <column>
+       <label>help</label>
+       <value>帮助</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>标签</value>
+     </column>
+     <column>
+       <label>errorMessage</label>
+       <value>错误信息</value>
+     </column>
+     <column>
+       <label>informationalMessage</label>
+       <value>报告信息</value>
+     </column>
+    
+     <column>
+       <label>picklistValueReferenceName</label>
+       <value>列表值自定义名称</value>
+     </column>
+     <column>
+       <label>relationshipLabel</label>
+       <value>关系标签</value>
+     </column>
+     <column>
+       <label>startsWith</label>
+       <value>开头</value>
+     </column>
+   </table>
+   <table type="ObjectNameCaseValues">
+     <tableHeader type = "Object Name Case Value">Object Name Case Value</tableHeader>
+     <column>
+       <label>referenceName</label>
+       <value>自定义名称</value>
+     </column>
+     <column>
+       <label>article</label>
+       <value>条款</value>
+     </column>
+     <column>
+       <label>caseType</label>
+       <value>事例类型</value>
+     </column>
+     <column>
+       <label>plural</label>
+       <value>复数形式</value>
+     </column>
+     <column>
+       <label>possessive</label>
+       <value>所有格</value>
+     </column>
+     <column>
+       <label>value</label>
+       <value>值</value>
+     </column>
+   </table>
+   <table type="LayutTranslation">
+     <tableHeader type="Layout Translation">Layout Translation</tableHeader>
+     
+     <column>
+       <label>layout</label>
+       <value>布局</value>
+     </column>
+     <column>
+       <label>layoutType</label>
+       <value>布局类型</value>
+     </column>
+     <column>
+       <label>sections</label>
+       <value>部分</value>
+     </column>
+   </table>
+   <table type="PicklistValueTranslation">
+      <tableHeader type="Picklist Value Translation">Picklist Value Translation</tableHeader>
+      <column>
+        <label>referenceName</label>
+        <value>自定义名称</value>
+      </column>
+      <column>
+        <label>masterLabel</label>
+        <value>主标签</value>
+      </column>
+      <column>
+        <label>translation</label>
+        <value>译文</value>
+      </column>
+   </table> 
+   <table type="QuickActionTranslation">
+     <tableHeader type="Quick Action Translation">Quick Action Translation</tableHeader>
+    
+     <column>
+       <label>name</label>
+       <value>名称</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>标签</value>
+     </column>
+   </table>
+   <table type="RecordTypeTranslation">
+     <tableHeader type="Record Type Translation">Record Type Translation</tableHeader>
+     
+     <column>
+       <label>name</label>
+       <value>名称</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>标签</value>
+     </column>
+   </table>
+   <table type="SharingReasonTranslation">
+     <tableHeader type="Sharing Reason Translation">Sharing Reason Translation</tableHeader>
+     
+     <column>
+       <label>name</label>
+       <value>名称</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>标签</value>
+     </column>
+   </table>
+   <table type="ValidationRuleTranslation">
+     <tableHeader type="Validation Rule Translation">Validation Rule Translation</tableHeader>
+     
+     <column>
+       <label>name</label>
+       <value>名称</value>
+     </column>
+     <column>
+       <label>errorMessage</label>
+       <value>错误信息</value>
+     </column>
+   </table>
+   <table type="WebLinkTraslation">
+     <tableHeader type="Web Link Translation">Web Link Translation</tableHeader>
+     
+     <column>
+       <label>name</label>
+       <value>名称</value>
+     </column>
+     <column>
+       <label>label</label>
+       <value>标签</value>
+     </column>   
+   </table>
+   <table type="WorkflowTaskTranslation">
+     <tableHeader type="Workflow Task Translation">Workflow Task Translation</tableHeader>
+     <column>
+       <label>name</label>
+       <value>名称</value>
+     </column>
+     <column>
+       <label>description</label>
+       <value>描述</value>
+     </column>
+     <column>
+       <label>subject</label>
+       <value>科目</value>
+     </column>
+   </table>
+</Metadata>

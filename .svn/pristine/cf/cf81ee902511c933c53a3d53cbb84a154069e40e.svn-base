@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="ExternalDataSource">
+    <table type="ObjectAttribute">
+        <tableHeader type="Object Attribute">Object Attribute</tableHeader>
+	    <column>
+	      <label>changed</label>
+	      <value>変更あり</value>
+	    </column>        
+        <column>
+            <label>fullName</label>
+            <value>名前</value>
+        </column>
+        <column>
+            <label>label</label>
+            <value>表示ラベル</value>
+        </column>
+        <column>
+            <label>type</label>
+            <value>種別</value>
+        </column>
+    </table>
+    <table type="Parameters">
+        <tableHeader type="Parameters">パラメータ</tableHeader>
+	    <column>
+	      <label>endpoint</label>
+	      <value>URL</value>
+	    </column>        
+        <column>
+            <label>timeout</label>
+            <value>接続タイムアウト (秒)</value>
+        </column>
+        <column>
+            <label>noIdMapping</label>
+            <value>高データボリューム</value>
+        </column>
+        <column>
+            <label>pagination</label>
+            <value>サーバ駆動のページ設定</value>
+        </column>
+	    <column>
+	      <label>inlineCountEnabled</label>
+	      <value>要求の行数</value>
+	    </column>        
+        <column>
+            <label>requestCompression</label>
+            <value>圧縮要求</value>
+        </column>
+        <column>
+            <label>customConfiguration</label>
+            <value>Salesforce 検索に含める</value>
+        </column>
+        <column>
+            <label>searchFunc</label>
+            <value>検索のカスタムクエリオプション</value>
+        </column>  
+        <column>
+            <label>format</label>
+            <value>形式</value>
+        </column>
+        <column>
+            <label>compatibility</label>
+            <value>特殊な互換性</value>
+        </column>                     
+    </table>  
+    <table type="Authentication">
+        <tableHeader type="Authentication">認証</tableHeader>
+	    <column>
+	      <label>certificate</label>
+	      <value>証明書</value>
+	    </column>        
+        <column>
+            <label>principalType</label>
+            <value>ID 種別</value>
+        </column>
+        <column>
+            <label>protocol</label>
+            <value>認証プロトコル</value>
+        </column>
+        <column>
+            <label>username</label>
+            <value>(管理者)ユーザ名</value>
+        </column>
+	    <column>
+	      <label>password</label>
+	      <value>(管理者)パスワード</value>
+	    </column>        
+        <column>
+            <label>authProvider</label>
+            <value>認証プロバイダ</value>
+        </column>
+        <column>
+            <label>oauthScope</label>
+            <value>範囲</value>
+        </column>                  
+    </table>      
+</MetaData> 

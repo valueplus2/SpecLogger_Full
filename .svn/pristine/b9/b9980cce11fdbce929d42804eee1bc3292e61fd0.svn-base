@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="AutoResponseRule">
+    <table type="AutoResponseRule">
+        <tableHeader type="AutoResponse Rule">AutoResponse Rule</tableHeader>
+        <column>
+            <label>Changed</label>
+            <value>Changed</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>fullName</value>
+        </column>
+        <column>
+            <label>active</label>
+            <value>active</value>
+        </column>
+    </table> 
+	<table type="RuleEntry">
+        <tableHeader type="Rule Entry">Rule Entry</tableHeader>
+        <column>
+            <label>booleanFilter</label>
+            <value>booleanFilter</value>
+        </column>
+        <column>
+            <label>criteriaItems</label>
+            <value>criteriaItems</value>
+        </column>
+        <column>
+            <label>formula</label>
+            <value>formula</value>
+        </column>
+        <column>
+            <label>replyToEmail</label>
+            <value>replyToEmail</value>
+        </column>
+        <column>
+            <label>senderEmail</label>
+            <value>senderEmail</value>
+        </column>
+        
+        <column>
+            <label>senderName</label>
+            <value>senderName</value>
+        </column>
+         <column>
+            <label>template</label>
+            <value>template</value>
+        </column>
+    </table> 
+</MetaData>

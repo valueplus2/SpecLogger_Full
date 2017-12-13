@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <MateDate type="CustomLabels">
+    <table type="CustomLabel">
+    
+        <tableHeader type="Custom Label">Custom Label</tableHeader>
+        <column>
+            <label>fullName</label>
+            <value>fullName</value>
+        </column>
+        <column>
+            <label>shortDescription</label>
+            <value>shortDescription</value>
+        </column>
+        <column>
+            <label>language</label>
+            <value>language</value>
+        </column>
+        <column>
+            <label>protected</label>
+            <value>protected</value>
+        </column>
+        <column>
+            <label>categories</label>
+            <value>categories</value>
+        </column>
+        <column>
+            <label>value</label>
+            <value>value</value>
+        </column>
+       </table>
+    </MateDate>

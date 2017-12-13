@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata type="AnalyticSnapshot">
+  <table type="AnalyticSnapshotAttribute">
+    <tableHeader type="Analytic Snapshot Attribute">分析快照属性</tableHeader>
+    <column>
+      <label>changed</label>
+      <value>已更改</value>
+    </column>
+    <column>
+      <label>name</label>
+      <value>分析快照名称</value>
+    </column>
+    <column>
+      <label>fullName</label>
+      <value>分析快照全名</value>
+    </column>
+    <column>
+      <label>description</label>
+      <value>描述</value>
+    </column>
+    <column>
+      <label>groupColumn</label>
+      <value>组列</value>
+    </column>
+    <column>
+      <label>runningUser</label>
+      <value>正在运行的用户</value>
+    </column>
+    <column>
+      <label>sourceReport</label>
+      <value>源报表</value>
+    </column>
+    <column>
+      <label>targetObject</label>
+      <value>目标对象</value>
+    </column>
+  </table>
+  <table type="AnalyticSnapshotMapping">
+      <tableHeader type="Analytic Snapshot Mapping">分析快照映射</tableHeader>
+      <column>
+        <label>aggregateType</label>
+        <value>合计类型</value>
+      </column>
+      <column>
+        <label>sourceFied</label>
+        <value>源报表字段</value>
+      </column>
+      <column>
+        <label>sourceType</label>
+        <value>源类型</value>
+      </column>
+      <column>
+        <label>targetField</label>
+        <value>目标对象字段</value>
+      </column>
+  </table>
+</metadata>

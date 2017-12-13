@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="CustomSetting">
+    <table type="CustomSettingAttribute">
+        <tableHeader type="Custom Setting Attribute">Custom Setting Attribute</tableHeader>
+        <column>
+            <label>label</label>
+            <value>label</value>
+        </column>
+       <column>
+            <label>visibility</label>
+            <value>visibility</value>
+        </column>
+        <column>
+            <label>customSettingsType</label>
+            <value>customSettingsType</value>
+        </column>
+         <column>
+            <label>description</label>
+            <value>description</value>
+        </column>
+        <column>
+            <label>Number of Records</label>
+            <value>Number of Records</value>
+        </column>    
+    </table>
+    <table type="CustomField">
+        <tableHeader type="Custom Field">Custom Field</tableHeader>
+        <column>
+            <label>label</label>
+            <value>label</value>
+        </column>
+        <column>
+            <label>fullName</label>
+            <value>fullName</value>
+        </column>
+        <column>
+            <label>type</label>
+            <value>type</value>
+        </column>
+        <column>
+            <label>caseSensitive</label>
+            <value>caseSensitive</value>
+            <!-- <value>大文字と小文字を区別</value> -->
+        </column>
+        <column>
+            <label>defaultValue</label>
+            <value>defaultValue</value>
+        </column>
+        <column>
+            <label>description</label>
+            <value>description</value>
+        </column>
+        <!--  <column>
+            <label>displayLocationInDecimal</label>
+            <value>displayLocationInDecimal</value>
+        </column>-->
+        <column>
+        	<label>inlineHelpText</label>
+        	<value>inlineHelpText</value>
+        </column>
+        <column>
+            <label>encrypted</label>
+            <value>encrypted</value>
+        </column>
+        <column>
+            <label>formula</label>
+            <value>formula</value>
+        </column>
+        <column>
+            <label>formulaTreatBlankAs</label>
+            <value>formulaTreatBlankAs</value>
+        </column>
+        <column>
+            <label>displayFormat</label>
+            <value>displayFormat</value>
+        </column>
+        <!-- <column>
+            <label>indexed</label>
+            <value>indexed</value>
+        </column> -->
+        <column>
+            <label>externalId</label>
+            <value>externalId</value>
+        </column>
+        <column>
+            <label>length</label>
+            <value>length</value>
+        </column>
+        <column>
+            <label>scale</label>
+            <value>scale</value>
+        </column>
+        <column>
+            <label>precision</label>
+            <value>precision</value>
+        </column>
+        <column>
+            <label>required</label>
+            <value>required</value>
+        </column>
+        <column>
+            <label>unique</label>
+            <value>unique</value>
+        </column>
+        <column>
+            <label>visibleLines</label>
+            <value>visibleLines</value>
+        </column>
+        <column>
+        	<label>startingNumber</label>
+        	<value>startingNumber</value>
+        </column>
+        <!-- ><column>
+        	<label>trueValueIndexed</label>
+        	<value>trueValueIndexed</value>
+        </column> -->
+    </table>
+    <table type="Manage">
+    	<tableHeader type="Manage">Manage</tableHeader>
+    	<column>
+    		<label>Name</label>
+    		<value>Name</value>
+    	</column>
+    </table> 
+</MetaData>

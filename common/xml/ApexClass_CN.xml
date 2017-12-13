@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData type="ApexClass">
+    <table type="ApexClass">
+        <tableHeader type="ApexClass">ApexClass</tableHeader>
+        <column>
+	      <label>changed</label>
+	      <value>changed</value>
+	    </column>  
+        <column>
+            <label>fullName</label>
+            <value>fullName</value>
+        </column>
+        <column>
+            <label>NamespacePrefix</label>
+            <value>NamespacePrefix</value>
+        </column>
+        <column>
+            <label>LengthWithoutComments</label>
+            <value>LengthWithoutComments</value>
+        </column>
+        <column>
+            <label>ApiVersion</label>
+            <value>ApiVersion</value>
+        </column>
+        <column>
+            <label>Status</label>
+            <value>Status</value>
+        </column>
+        <column>
+            <label>LastModifiedBy</label>
+            <value>LastModifiedBy</value>
+        </column>
+        <column>
+            <label>LastModifiedDate</label>
+            <value>LastModifiedDate</value>
+        </column>
+    </table>
+</MetaData> 

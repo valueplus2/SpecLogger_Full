@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata type="PermissionSet">
+  <table type="PermissionSet">
+    <tableHeader type="PermissionSet">権限セット</tableHeader>
+    <column>
+      <label>changed</label>
+      <value>変更あり</value>
+    </column>
+    <column>
+      <label>label</label>
+      <value>ラベル</value>
+    </column>
+    <column>
+      <label>description</label>
+      <value>説明</value>
+    </column>
+    <column>
+      <label>userLicense</label>
+      <value>ユーザライセンス</value>
+    </column>
+    
+  </table>
+  <table type="PermissionSetApplicationVisibility">
+  	<tableHeader type="PermissionSetApplicationVisibility">カスタムアプリケーション権限セット</tableHeader>
+	  <!--<column>
+		  <label>changed</label>
+		  <value>変更あり</value>
+	  </column>  -->
+      <column>
+        <label>application</label>
+        <value>アプリケーション</value>
+      </column>
+      <column>
+        <label>visible</label>
+        <value>参照可能</value>
+      </column>
+  </table>
+  <table type="PermissionSetApexClassAccess">
+  	<tableHeader type="PermissionSetApexClassAccess">有効なApexクラス権限セット</tableHeader>
+    <!--<column>
+		  <label>changed</label>
+		  <value>変更あり</value>
+	  </column>  -->
+    <column>
+        <label>apexClass</label>
+        <value>Apexクラス名</value>
+    </column>
+    <column>
+        <label>enabled</label>
+        <value>有効</value>
+    </column>
+  </table>
+  <table type="PermissionSetCustomPermissions">
+    <tableHeader type="PermissionSetCustomPermissions">カスタム権限セット</tableHeader>
+    <!--<column>
+		  <label>changed</label>
+		  <value>変更あり</value>
+	  </column>  -->
+      <column>
+        <label>name</label>
+        <value>権限名</value>
+      </column>
+      <column>
+        <label>enabled</label>
+        <value>有効</value>
+      </column>
+    </table>
+    <table type="PermissionSetExternalDataSourceAccess">
+      <tableHeader type="PermissionSetExternalDataSourceAccess">有効なExternal Data Sourcesの権限セット</tableHeader>
+      <!--<column>
+		  <label>changed</label>
+		  <value>変更あり</value>
+	  </column>  -->
+      <column>
+          <label>externalDataSource</label>
+          <value>外部データソース</value>
+      </column>
+      <column>
+          <label>enabled</label>
+          <value>有効</value>
+      </column>
+  </table>
+  <table type="PermissionSetFieldPermissions">
+      <tableHeader type="PermissionSetFieldPermissions">項目の権限セット</tableHeader>
+      <!--<column>
+		  <label>changed</label>
+		  <value>変更あり</value>
+	  </column>  -->
+      <column>
+	      <label>field</label>
+	      <value>項目</value>
+      </column>
+      <column>
+          <label>editable</label>
+          <value>参照のみ</value>
+      </column>
+      <column>
+          <label>readable</label>
+          <value>参照可能</value>
+      </column>
+  </table>
+  <table type="PermissionSetObjectPermissions">
+  	<tableHeader type="PermissionSetObjectPermissions">オブジェクト権限セット</tableHeader>
+      <!--<column>
+		  <label>changed</label>
+		  <value>変更あり</value>
+	  </column>  -->
+      <column>
+        <label>object</label>
+        <value>オブジェクト</value>
+      </column>
+      <column>
+        <label>allowCreate</label>
+        <value>作成</value>
+      </column>
+       <column>
+        <label>allowDelete</label>
+        <value>削除</value>
+      </column>
+      <column>
+        <label>allowEdit</label>
+        <value>編集</value>
+      </column>
+       <column>
+        <label>allowRead</label>
+        <value>参照</value>
+      </column>
+      <column>
+        <label>modifyAllRecords</label>
+        <value>すべて変更</value>
+      </column>
+      <column>
+        <label>viewAllRecords</label>
+        <value>すべて表示</value>
+      </column>
+  </table>
+  <table type="PermissionSetApexPageAccess">
+      <tableHeader type="PermissionSetApexPageAccess">有効なApexクラスの権限セット</tableHeader>
+      <!--<column>
+		  <label>changed</label>
+		  <value>変更あり</value>
+	  </column>  -->
+      <column>
+          <label>apexPage</label>
+          <value>Visualforce ページ名</value>
+      </column>
+      <column>
+          <label>enabled</label>
+          <value>有効</value>
+      </column>
+  </table>
+  <table type="PermissionSetRecordTypeVisibility">
+      <tableHeader type="PermissionSetRecordTypeVisibility">レコードタイプの権限セット</tableHeader>
+     <!--<column>
+		  <label>changed</label>
+		  <value>変更あり</value>
+	  </column>  -->
+      <column>
+          <label>recordType</label>
+          <value>レコードタイプ</value>
+      </column>
+      <column>
+        <label>visible</label>
+        <value>選択済み</value>
+      </column>
+  </table>
+  <table type="PermissionSetTabSetting">
+      <tableHeader type="PermissionSetTabSetting">タブの権限セット</tableHeader>
+      <!--<column>
+		  <label>changed</label>
+		  <value>変更あり</value>
+	  </column>  -->
+      <column>
+        <label>tab</label>
+        <value>タブ</value>
+      </column>
+      <column>
+        <label>visibility</label>
+        <value>利用可能</value>
+      </column>
+  </table>
+  <table type="PermissionSetUserPermission">
+      <tableHeader type="PermissionSetUserPermission">一般ユーザ権限セット</tableHeader>
+      <!--<column>
+		  <label>changed</label>
+		  <value>変更あり</value>
+	  </column>  -->
+      <column>
+        <label>name</label>
+        <value>権限名</value>
+      </column>
+      <column>
+        <label>enabled</label>
+        <value>有効</value>
+      </column>
+  </table>
+  <table type="Username">
+      <tableHeader type="Username">ユーザ名</tableHeader>
+      <column>
+	      <label>name</label>
+	      <value>名前</value>
+      </column>
+  </table>
+</metadata>
